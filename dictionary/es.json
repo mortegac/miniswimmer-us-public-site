@@ -67,33 +67,39 @@
       "items": [
         {
           "name": "Avo Queen",
-          "image": "https://images.prismic.io/miniswimmerchile/ZtHYyEaF0TcGJmEu_marine.avif?auto=format,compress",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLTTKMIMdS1E31rJKVnckOcwFO4B9qHwyAk9Vn5uJ8uO7S-yA=s100-c-rp-mo-br100",
           "designation": "Madre de 2 años",
           "comment": "Nos costo mucho encontrar clases para mi hija de 2 años, ya que todas eran muy monotonas y ella se aburria. Hasta que encontre por redes sociales esta escuela y fui a una clase a probar. Quede fascinada con los millones de materiales y juegos que realizan. Nunca había visto algo así. Mi hija es la más feliz ahora. La inscribimos y ella lleva 2 meses y ya comenzó a nadar por si misma y ahora no logro sacarla del agua. Estamos muy felices como familia."
         },
         {
           "name": "Paloma Ferrero",
-          "image": "https://images.prismic.io/miniswimmerchile/Z6Y4jJbqstJ9-X9r_paloma-ferrero.png?auto=format,compress",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjU3mM6jVh4fYctriC5VGCwjloBAzgNOlhN3hFN8d85T210x6saX=s100-c-rp-mo-br100",
           "designation": "Madre de 3 años",
           "comment": "Excelentes clases! La piscina súper ambientada para el disfrute de los niños/as, materiales novedosos y coloridos y las coaches las mejores por lejos!  Todas con mucha experiencia en bebés y niños, mi hija lo pasa excelente cada vez que va y ha aprendido mucho :)"
         },
         {
           "name": "Javier Arancibia",
-          "image": "https://lh3.googleusercontent.com/a/ACg8ocLyjFwriZEGfjKtDx1G1D-39nocPGVyCEaG-8w2KHjhVOH2VQ=s65-c-rp-mo-br100",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLyjFwriZEGfjKtDx1G1D-39nocPGVyCEaG-8w2KHjhVOH2VQ=s100-c-rp-mo-br100",
           "designation": "Madre de 2 años",
           "comment": "Muy buenas clases, y muy didácticas para los niños"
         },
         {
           "name": "Andrea Zalavari",
-          "image": "https://lh3.googleusercontent.com/a-/ALV-UjUvwOvv9w25RU3V_fuo0Ky7Fd9pwPZ5NjYVNM5GUAaxnn6pHUEP=s65-c-rp-mo-br100",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjUvwOvv9w25RU3V_fuo0Ky7Fd9pwPZ5NjYVNM5GUAaxnn6pHUEP=s100-c-rp-mo-br100",
           "designation": "Madre de 1 año",
           "comment": "Maravillosa experiencia y método! Cada clase hay avances en mi pequeña y además lo pasa muy bien! Gracias Miniswimmer ❤️"
         },
         {
           "name": "Chay",
-          "image": "https://images.prismic.io/miniswimmerchile/ZtHYyEaF0TcGJmEu_marine.avif?auto=format,compress",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLTTKMIMdS1E31rJKVnckOcwFO4B9qHwyAk9Vn5uJ8uO7S-yA=s100-c-rp-mo-br100",
           "designation": "Madre de 5 años",
           "comment": "Descubrí está academia de natación en redes sociales, mi hijo tiene 8 años. La ubicación en la Reina es conveniente, con estacionamiento privado y seguro. Lo que realmente destaca es su metodología de enseñanza. Los profesores son dedicados y hacen que cada clase sea una experiencia divertida y educativa. Mi hijo ha progresado notablemente desde que comenzó. Al principio tenía miedo al agua, pero ahora nada con confianza. Los instructores tienen una paciencia increíble y explican las técnicas de manera que los niños las entienden fácilmente..."
+        },
+        {
+          "name": "Luisa Maldonado",
+          "image": "https://user-images.trustpilot.com/643ecc5a612df50012c3d633/73x73.png",
+          "designation": "Tia de 5,7 años",
+          "comment": "No tengo suficientes palabras para expresar lo felices que estuvieron mis sobrinos de recibir la ayuda de miniswimmer. Llegaron con mucho miedo al agua y los profesores les dieron las herramientas para estar más seguros cuando entraran en ella. Muy agradecida por el conocimiento que les brindaron. Excelente servicio."
         }
       ]
     },
@@ -104,13 +110,13 @@
         {
           "title": "Prevención y Supervivencia Acuática",
           "subtitle": "Enseñamos técnicas para evitar ahogamientos y habilidades de supervivencia en el agua.",
-          "img": "/images/features/happy-child.png",
+          "img": "https://images.prismic.io/miniswimmerchile/aA_ZwPIqRLdaBr0o_happy-child.png?auto=format,compress",
           "features": ["Seguridad", "Técnica", "Confianza"]
         },
         {
           "title": "Autonomía en el Agua",
           "subtitle": "Desarrollamos nadadores independientes y seguros desde temprana edad.",
-          "img": "/images/features/happy-child-2.png",
+          "img": "https://images.prismic.io/miniswimmerchile/aA_Zv_IqRLdaBr0n_happy-child-2.png?auto=format,compress",
           "features": ["Independencia", "Habilidad", "Desarrollo"]
         }
       ]

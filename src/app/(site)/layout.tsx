@@ -1,6 +1,6 @@
 import NextTopLoader from 'nextjs-toploader';
 
-// import 'react-quill-new/dist/quill.snow.css';
+import 'react-quill-new/dist/quill.snow.css';
 import '../../styles/globals.css';
 import '../../styles/satoshi.css';
 

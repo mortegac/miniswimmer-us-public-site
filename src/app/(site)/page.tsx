@@ -2,21 +2,21 @@ import Home from "@/components/Home";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-	title: `Full-Stack SaaS Boilerplate for Next.js - SaaSBold Demo`,
-	description: `A full-stack SaaS boilerplate and starter kit comes with all essential integrations, pages, components, user/admin dashboards, landing page, design source and everything you need to turn your feature-rich SaaS startup idea into reality in a day!`,
+	title: `Get to know our unique method in the market`,
+	description: `Swimming Pool, Safety, Accidents, Prevention,, Guidance`,
 	openGraph: {
 		type: "website",
-		title: `Full-Stack SaaS Boilerplate for Next.js - SaaSBold Demo`,
-		description: `A full-stack SaaS boilerplate and starter kit comes with all essential integrations, pages, components, user/admin dashboards, landing page, design source and everything you need to turn your feature-rich SaaS startup idea into reality in a day!`,
+		title: `Conoce el método Miniswimmer`,
+		description: `Nuestro método utiliza programación neurolingüística y coaching para que los niños tengan un aprendizaje real y significativo durante toda su vida.`,
 		images:
-			"https://ucarecdn.com/4b0ffd0e-90b0-4a59-b63c-f5ecee0ae575/saasbold.jpg",
+			"https://images.prismic.io/minifit/f8907eeb-0b15-40b4-b02a-81d122754a11_SOCIAL-MEDIA.png",
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: `Full-Stack SaaS Boilerplate for Next.js - SaaSBold Demo`,
-		description: `A full-stack SaaS boilerplate and starter kit comes with all essential integrations, pages, components, user/admin dashboards, landing page, design source and everything you need to turn your feature-rich SaaS startup idea into reality in a day!`,
+		title: `Conoce el método Miniswimmer`,
+		description: `Nuestro método utiliza programación neurolingüística y coaching para que los niños tengan un aprendizaje real y significativo durante toda su vida.`,
 		images:
-			"https://ucarecdn.com/4b0ffd0e-90b0-4a59-b63c-f5ecee0ae575/saasbold.jpg",
+			"https://images.prismic.io/minifit/f8907eeb-0b15-40b4-b02a-81d122754a11_SOCIAL-MEDIA.png",
 	},
 };
 

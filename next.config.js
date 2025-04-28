@@ -18,6 +18,11 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: 'user-images.trustpilot.com',
+        port: '',
+      },
+      {
+        protocol: 'https',
         hostname: 'avatars.githubusercontent.com',
         port: '',
       },
