@@ -1,7 +1,6 @@
 import { useTranslations } from 'next-intl';
 import Image from 'next/image';
 import Link from 'next/link';
-import brandData from './brandData';
 
 const Hero = () => {
   const t = useTranslations('homepage.hero_section');
