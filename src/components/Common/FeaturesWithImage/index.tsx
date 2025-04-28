@@ -51,8 +51,9 @@ const FeaturesWithImage = () => {
             </div>
 
             <div className='w-full max-w-[484px]'>
-              <Image src={data.image} alt={data?.title} width={484} height={400} />
+              { data?.img && <Image src={data?.img} alt={data?.title} width={484} height={400} />}
             </div>
+            {/* <pre>{JSON.stringify(data, null, 2)}</pre> */}
           </div>
         ))}
       </div>

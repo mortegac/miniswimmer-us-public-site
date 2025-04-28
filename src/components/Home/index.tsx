@@ -1,6 +1,6 @@
-import Hero from "./Hero";
-import FeaturesWithImage from "./FeaturesWithImage";
-import Testimonials from "./Testimonials";
+import Hero from "../Common/Hero";
+import FeaturesWithImage from "../Common/FeaturesWithImage";
+import Testimonials from "../Common/Testimonials";
 
 import Newsletter from "./Newsletter";
 const Home = () => {

@@ -1,10 +1,12 @@
+import NextTopLoader from 'nextjs-toploader';
+
+// import 'react-quill-new/dist/quill.snow.css';
+import '../../styles/globals.css';
+import '../../styles/satoshi.css';
+
 import Loader from '@/components/Common/PreLoader';
 import FooterWrapper from '@/components/Footer/FooterWrapper';
 import { HeaderWrapper } from '@/components/Header/HeaderWrapper';
-import NextTopLoader from 'nextjs-toploader';
-import 'react-quill-new/dist/quill.snow.css';
-import '../../styles/globals.css';
-import '../../styles/satoshi.css';
 import ToastContext from '../context/ToastContext';
 import { Providers } from './providers';
 

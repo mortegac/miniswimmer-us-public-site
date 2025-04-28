@@ -66,25 +66,25 @@
       "subtitle": "Our swimming program is designed to help swimmers of all levels improve their technique, build endurance, and gain confidence in the water. Learn more about our program and how it can benefit you.",
       "items": [
         {
-          "title": "Build, Launch, Scale with SaaSBold",
-          "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit praesent condimentum malesuada consequat quam.",
-          "img": "/images/features/happy-child.png",
+          "title": "Aquatic Safety and Survival",
+          "subtitle": "We empower individuals with drowning prevention techniques and water survival skills.",
+          "img": "https://images.prismic.io/miniswimmerchile/aA_ZwPIqRLdaBr0o_happy-child.png?auto=format,compress",
           "features": ["Prevention", "Autonomy in the water", "Survival"]
         },
         {
-          "title": "The Best SaaS Boilerplate Available on The Web",
-          "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit praesent condimentum malesuada consequat quam.",
-          "img": "/images/features/happy-child-2.png",
+          "title": "Building Water Confidence",
+          "subtitle": "We foster independent and secure swimmers starting at a young age.",
+          "img": "https://images.prismic.io/miniswimmerchile/aA_Zv_IqRLdaBr0n_happy-child-2.png?auto=format,compress",
           "features": [
-            "Admin and User Dashboard",
-            "Fully Customizable",
-            "Rich Docs and Email Support"
+            "Independence",
+            "Skill, Ability",
+            "Development"
           ]
         }
       ]
     },
     "features_section": {
-      "title": "Launch SaaS Startup in Days",
+      "title": "Developing Independent Swimmers",
       "subtitle": "Everything you need to build, launch, and scale your SaaS startup.",
       "features": [
         {
