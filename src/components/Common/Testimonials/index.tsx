@@ -5,8 +5,11 @@ import { Testimonial } from '@/types/testimonial';
 import { useTranslations } from 'next-intl';
 import Image from 'next/image';
 
-const Testimonials = () => {
-  const t = useTranslations('homepage.testimonials_section');
+const Testimonials = (props:any) => {
+  
+  const { pageTraslation } = props;
+  const t = useTranslations(`${pageTraslation}.testimonials_section`);
+  // const t = useTranslations('homepage.testimonials_section');
   const testimonialData: Testimonial[] = t.raw('items');
 
   return (

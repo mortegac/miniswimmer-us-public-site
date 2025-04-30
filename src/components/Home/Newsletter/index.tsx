@@ -2,8 +2,10 @@
 import { useTranslations } from 'next-intl';
 import { NewsletterDictionary } from '@/types/newsletter';
 
-export default function Newsletter() {
-  const t = useTranslations('homepage.newsletter_section');
+export default function Newsletter(props:any) {
+  const { pageTraslation } = props;
+  const t = useTranslations(`${pageTraslation}.newsletter_section`);
+  // const t = useTranslations('homepage.newsletter_section');
 
   
   return (
@@ -12,7 +14,7 @@ export default function Newsletter() {
       <div className="container mx-auto w-full max-w-[1170px]">
         <div className="mx-auto w-full max-w-[590px]">
           <div className="text-center">
-          <h1 className='mb-5 font-satoshi text-heading-4 font-bold -tracking-[1.6px] text-white dark:text-white lg:text-heading-2 xl:text-[58px] xl:leading-[1.12]'>
+          <h2 className='mb-5 font-satoshi text-heading-4 font-bold -tracking-[1.6px] text-white dark:text-white lg:text-heading-2 xl:text-[58px] xl:leading-[1.12]'>
               {t.rich('title', {
                 marker: chunks => (
                   <span className='relative text-[#87e0ff]'>
@@ -36,7 +38,7 @@ export default function Newsletter() {
                   </span>
                 ),
               })}
-            </h1>
+            </h2>
             {/* <h2 className="mb-5 font-satoshi text-3xl font-bold text-slate-900 dark:text-white sm:text-4xl md:text-heading-2">
             ¡Suscríbete a <span className='relative text-[#87e0ff]'>Nuestro Newsletter!</span>
             </h2> */}

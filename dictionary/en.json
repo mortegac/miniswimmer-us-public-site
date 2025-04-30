@@ -63,22 +63,28 @@
     },
     "features_with_image_section": {
       "title": "What is our program about?",
-      "subtitle": "Our swimming program is designed to help swimmers of all levels improve their technique, build endurance, and gain confidence in the water. Learn more about our program and how it can benefit you.",
+      "subtitle": "Imagine your children truly learning to swim, developing real confidence and independence in the water. At our academy, we've revolutionized how kids learn to swim with a unique method integrating Neuro-Linguistic Programming (NLP) and Coaching.",
       "items": [
         {
-          "title": "Aquatic Safety and Survival",
-          "subtitle": "We empower individuals with drowning prevention techniques and water survival skills.",
-          "img": "https://images.prismic.io/miniswimmerchile/aA_ZwPIqRLdaBr0o_happy-child.png?auto=format,compress",
-          "features": ["Prevention", "Autonomy in the water", "Survival"]
-        },
-        {
-          "title": "Building Water Confidence",
-          "subtitle": "We foster independent and secure swimmers starting at a young age.",
+          "subtitle2": "Water Safety and Survival for Your Kids:",
+          "title": "Your Peace of Mind",
+          "subtitle": "We teach skills to prevent drowning and water survival techniques.",
           "img": "https://images.prismic.io/miniswimmerchile/aA_Zv_IqRLdaBr0n_happy-child-2.png?auto=format,compress",
           "features": [
-            "Independence",
-            "Skill, Ability",
-            "Development"
+            "<marker>Proactive Safety:</marker> Your child will learn essential safety rules and how to identify and avoid dangers in the water.", 
+            "<marker>Survival Skills:</marker> We develop vital skills like floating, turning onto their back, and moving safely in the water.", 
+            "<marker>Confidence in Emergencies:</marker> We build their calmness and ability to react in unexpected situations, turning fear into a sense of safety."
+          ]
+        },
+        {
+          "subtitle2": "Experience Freedom in the Water:",
+          "title": "Developing Water Autonomy",
+          "subtitle": "We're dedicated to creating independent and confident swimmers from their very first lessons. Our program is designed to cultivate autonomy in the water, equipping them with the tools and the self-assurance to navigate it independently with skill and safety.",
+          "img": "https://images.prismic.io/miniswimmerchile/aA_ZwPIqRLdaBr0o_happy-child.png?auto=format,compress",
+          "features": [
+            "<marker>Building Water Independence:</marker> Developing the confidence and ability to move and act independently in the water, without constant instructor guidance.", 
+            "<marker>Mastering Essential Skills:</marker> Learning strong and efficient swimming techniques that will enable a lifetime of enjoyment in the water.", 
+            "<marker>Fostering Holistic Growth:</marker> Encouraging self-confidence, responsibility, and decision-making abilities in the water."
           ]
         }
       ]
@@ -446,7 +452,7 @@
     }
   },
   "footer": {
-    "copyright": "© Your SaaS - Demo SaaS website created using SaaSBold",
+    "copyright": "© Miniswimmer, <marker>desarrollador por manuelo.dev</marker>",
     "company": {
       "title": "Company",
       "items": {
@@ -456,7 +462,7 @@
       }
     },
     "product": {
-      "title": "Product",
+      "title": "Product1",
       "items": {
         "features": "Features",
         "integrations": "Integrations",

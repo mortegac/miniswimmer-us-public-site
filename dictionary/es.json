@@ -61,6 +61,35 @@
         "description": "Built by the same team behind numerous successful SaaS and digital products"
       }
     },
+    "features_with_image_section": {
+      "title": "¿Conoce nuestro programa?",
+      "subtitle": "¿Quieres que tus hijos aprendan a nadar de verdad, con confianza y autonomía en el agua? En nuestra academia, hemos revolucionado la enseñanza de la natación infantil con un método único que integra la Programación Neurolingüística (PNL) y el Coaching.",
+      
+      "items": [
+        {
+          "subtitle2": "Tranquilidad en el Agua:",
+          "title": "Prevención y Supervivencia Acuática para tus Hijos",
+          "subtitle": "Enseñamos técnicas para evitar ahogamientos y habilidades de supervivencia en el agua.",
+          "img": "https://images.prismic.io/miniswimmerchile/aA_Zv_IqRLdaBr0n_happy-child-2.png?auto=format,compress",
+          "features": [
+            "<marker>Seguridad Proactiva:</marker> Aprendizaje de normas de seguridad esenciales y cómo identificar y evitar peligros acuáticos.", 
+            "<marker>Técnicas de Supervivencia:</marker> Desarrollo de habilidades vitales como flotación, volteo al dorso y desplazamiento seguro en el agua.", 
+            "<marker>Confianza para Actuar:</marker> Fomentamos la calma y la capacidad de respuesta ante situaciones inesperadas, transformando el miedo en seguridad."
+          ]
+        },
+        {
+          "subtitle2": "Libertad en el Agua:",
+          "title": "Autonomía en el Agua",
+          "subtitle": "Creemos en formar nadadores independientes y seguros desde las primeras etapas de su aprendizaje. Nuestro programa está diseñado para cultivar la autonomía en el agua, brindándoles las herramientas y la confianza para desenvolverse por sí mismos con habilidad y seguridad.",
+          "img": "https://images.prismic.io/miniswimmerchile/aA_ZwPIqRLdaBr0o_happy-child.png?auto=format,compress",
+          "features": [
+            "<marker>Independencia Acuática:</marker> Desarrollo de la capacidad de moverse y actuar con confianza sin depender constantemente de un instructor.", 
+            "<marker>Habilidad Consolidada:</marker> Adquisición de técnicas de nado sólidas y eficientes que les permitirán disfrutar del agua durante toda su vida.", 
+            "<marker>Desarrollo Integral:</marker> Fomento de la autoconfianza, la responsabilidad y la toma de decisiones en el entorno acuático."
+          ]
+        }
+      ]
+    },
     "testimonials_section": {
       "title": "Lo Que Nuestras Familias Dicen: Historias de Éxito en el Agua",
       "subtitle": "Descubre por qué tantas familias confían en nosotros para introducir a sus pequeños al maravilloso mundo acuático. Estos testimonios reflejan nuestro compromiso con la seguridad, el aprendizaje y la diversión de cada uno de nuestros nadadores.",
@@ -117,24 +146,6 @@
       "buttonText": "Subscribirse"
     },
     
-    "features_with_image_section": {
-      "title": "¿Conoce nuestro programa?",
-      "subtitle": "Nuestro programa de natación está diseñado para ayudar a bebes y niños de todos los niveles a mejorar su técnica, desarrollar resistencia y ganar confianza en el agua. Obtenga más información sobre nuestro programa y cómo puede beneficiarlo.",
-      "items": [
-        {
-          "title": "Prevención y Supervivencia Acuática",
-          "subtitle": "Enseñamos técnicas para evitar ahogamientos y habilidades de supervivencia en el agua.",
-          "img": "https://images.prismic.io/miniswimmerchile/aA_ZwPIqRLdaBr0o_happy-child.png?auto=format,compress",
-          "features": ["Seguridad", "Técnica", "Confianza"]
-        },
-        {
-          "title": "Autonomía en el Agua",
-          "subtitle": "Desarrollamos nadadores independientes y seguros desde temprana edad.",
-          "img": "https://images.prismic.io/miniswimmerchile/aA_Zv_IqRLdaBr0n_happy-child-2.png?auto=format,compress",
-          "features": ["Independencia", "Habilidad", "Desarrollo"]
-        }
-      ]
-    },
     "counter_section": {
       "title": "Familias que confian en nuestro método",
       "type_one": "Familias",
@@ -442,7 +453,7 @@
     }
   },
   "footer": {
-    "copyright": "© Your SaaS - Demo SaaS website created using SaaSBold",
+    "copyright": "© Miniswimmer, <marker>desarrollador por manuelo.dev</marker>",
     "company": {
       "title": "Company",
       "items": {

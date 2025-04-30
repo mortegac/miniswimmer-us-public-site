@@ -2,8 +2,10 @@ import { useTranslations } from 'next-intl';
 import Image from 'next/image';
 import Link from 'next/link';
 
-const Hero = () => {
-  const t = useTranslations('homepage.hero_section');
+const Hero = (props:any) => {
+  const { pageTraslation } = props;
+  const t = useTranslations(`${pageTraslation}.hero_section`);
+  // const t = useTranslations('homepage.hero_section');
 
   return (
     <section className=' relative z-1 overflow-hidden bg-primary pb-17.5 pt-30 lg:pb-20 lg:pt-30 xl:pb-25 xl:pt-[170px]'>

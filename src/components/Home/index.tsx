@@ -7,10 +7,10 @@ import Newsletter from "./Newsletter";
 const Home = () => {
 	return (
 		<>
-			<Hero />
-			<FeaturesWithImage />
-			<Testimonials />
-			<Newsletter />
+			<Hero pageTraslation="homepage" />
+			<FeaturesWithImage pageTraslation="homepage" />
+			<Testimonials pageTraslation="homepage" />
+			<Newsletter pageTraslation="homepage"/>
 		</>
 	);
 };
