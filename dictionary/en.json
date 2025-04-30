@@ -190,10 +190,10 @@
       "subtitle": "Discover why so many families trust us to introduce their little ones to the wonderful aquatic world. These testimonials reflect our commitment to the safety, learning, and fun of each of our swimmers.",
       "items": [
         {
-          "name": "Andrea Zalavari",
-          "image": "https://lh3.googleusercontent.com/a-/ALV-UjUvwOvv9w25RU3V_fuo0Ky7Fd9pwPZ5NjYVNM5GUAaxnn6pHUEP=s100-c-rp-mo-br100",
-          "designation": "1-month-old's mom",
-          "comment": "Wonderful experience and method! My little one makes progress in every class and also has a great time! Thank you Miniswimmer ❤️"
+          "name": "Javier Arancibia",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLyjFwriZEGfjKtDx1G1D-39nocPGVyCEaG-8w2KHjhVOH2VQ=s100-c-rp-mo-br100",
+          "designation": "2-month-old's moms",
+          "comment": "Very good classes, and very educational for the children"
         },
         {
           "name": "Avo Queen",
@@ -208,10 +208,16 @@
           "comment": "Excellent classes! The pool is wonderfully set up for children to enjoy, with innovative and colorful materials, and the coaches are by far the best! They all have extensive experience with babies and children. My daughter has an amazing time every visit and has learned so much :)"
         },
         {
-          "name": "Javier Arancibia",
-          "image": "https://lh3.googleusercontent.com/a/ACg8ocLyjFwriZEGfjKtDx1G1D-39nocPGVyCEaG-8w2KHjhVOH2VQ=s100-c-rp-mo-br100",
-          "designation": "2-month-old's moms",
-          "comment": "Very good classes, and very educational for the children"
+          "name": "Andrea Zalavari",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjUvwOvv9w25RU3V_fuo0Ky7Fd9pwPZ5NjYVNM5GUAaxnn6pHUEP=s100-c-rp-mo-br100",
+          "designation": "1-month-old's mom",
+          "comment": "Wonderful experience and method! My little one makes progress in every class and also has a great time! Thank you Miniswimmer ❤️"
+        },
+        {
+          "name": "Sebastián Rubio",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjWzi7DtVEOY-YImKmNLE9SaDtKNH-l4-DMGIr9xCXTDFvswaM9i=s150-c-rp-mo-br100",
+          "designation": "Father of a 3-year-old and a 4-month-old",
+          "comment": "I highly recommend Mini Swimmer's swimming classes for young children. My 1-year and 3-month-old daughter recently attended the program with Nicole. She was patient, gentle, and provided individualized attention in small class sizes. My daughter's confidence and skill in the water improved significantly with each lesson.  She also provided age-appropriate equipment and the focus on water safety was also evident, which is crucial for young children. Overall, Mini Swimmer's swimming classes are fun, effective, and designed to make learning to swim a positive experience. I highly recommend this program to any parent looking to introduce their child to swimming. Five stars all around!"
         },
         {
           "name": "Chay",
@@ -227,6 +233,14 @@
         }
       ]
     },
+    "newsletter_section": {
+      
+      "title":"Subscribe to <marker>Our Newsletter!</marker>",
+      "description": "Get updates on special swim classes for all ages (babies, kids, pregnant individuals, adults), events, discounts, and learn about water safety, prevention, and the Miniswimmer method for building confident, independent swimmers.",
+      "nameForm": "Enter your name",
+      "emailForm": "Enter your email",
+      "buttonText": "Subscribe"
+    },
     "counter_section": {
       "title": "Families who trust our method",
       "type_one": "Families",
@@ -237,13 +251,6 @@
       "title": "Transform your child's future with Miniswimmer",
       "subtitle": "Our unique method combines neurolinguistic programming and coaching to ensure meaningful and lasting learning.",
       "cta": "BOOK YOUR CLASS NOW"
-    },
-
-    "newsletter_section": {
-      "title": "Subscribe newsletter",
-      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent condimentum dictum euismod malesuada lacus, non consequat quam.",
-      "input": "Enter your email",
-      "cta": "Subscribe"
     },
     "latest_blog_section": {
       "title": "Latest Blogs & News",

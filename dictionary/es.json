@@ -66,6 +66,12 @@
       "subtitle": "Descubre por qué tantas familias confían en nosotros para introducir a sus pequeños al maravilloso mundo acuático. Estos testimonios reflejan nuestro compromiso con la seguridad, el aprendizaje y la diversión de cada uno de nuestros nadadores.",
       "items": [
         {
+          "name": "Javier Arancibia",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLyjFwriZEGfjKtDx1G1D-39nocPGVyCEaG-8w2KHjhVOH2VQ=s100-c-rp-mo-br100",
+          "designation": "Madre de 2 años",
+          "comment": "Muy buenas clases, y muy didácticas para los niños"
+        },
+        {
           "name": "Avo Queen",
           "image": "https://lh3.googleusercontent.com/a/ACg8ocLTTKMIMdS1E31rJKVnckOcwFO4B9qHwyAk9Vn5uJ8uO7S-yA=s100-c-rp-mo-br100",
           "designation": "Madre de 2 años",
@@ -78,17 +84,17 @@
           "comment": "Excelentes clases! La piscina súper ambientada para el disfrute de los niños/as, materiales novedosos y coloridos y las coaches las mejores por lejos!  Todas con mucha experiencia en bebés y niños, mi hija lo pasa excelente cada vez que va y ha aprendido mucho :)"
         },
         {
-          "name": "Javier Arancibia",
-          "image": "https://lh3.googleusercontent.com/a/ACg8ocLyjFwriZEGfjKtDx1G1D-39nocPGVyCEaG-8w2KHjhVOH2VQ=s100-c-rp-mo-br100",
-          "designation": "Madre de 2 años",
-          "comment": "Muy buenas clases, y muy didácticas para los niños"
-        },
-        {
           "name": "Andrea Zalavari",
           "image": "https://lh3.googleusercontent.com/a-/ALV-UjUvwOvv9w25RU3V_fuo0Ky7Fd9pwPZ5NjYVNM5GUAaxnn6pHUEP=s100-c-rp-mo-br100",
           "designation": "Madre de 1 año",
           "comment": "Maravillosa experiencia y método! Cada clase hay avances en mi pequeña y además lo pasa muy bien! Gracias Miniswimmer ❤️"
         },
+        {
+          "name": "Sebastián Rubio",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjWzi7DtVEOY-YImKmNLE9SaDtKNH-l4-DMGIr9xCXTDFvswaM9i=s150-c-rp-mo-br100",
+          "designation": "Padre de 3 años y 4 meses",
+          "comment": "Recomiendo ampliamente las clases de natación de Mini Swimmer para niños pequeños. Mi hija de 1 año y 3 meses asistió recientemente al programa con Nicole. Ella fue paciente, amable y brindó atención individualizada en clases con grupos pequeños. La confianza y la habilidad de mi hija en el agua mejoraron significativamente con cada lección. También proporcionó equipo apropiado para su edad y el enfoque en la seguridad acuática fue evidente, lo cual es crucial para los niños pequeños. En general, las clases de natación de Mini Swimmer son divertidas, efectivas y están diseñadas para hacer del aprendizaje de la natación una experiencia positiva. Recomiendo encarecidamente este programa a cualquier padre que busque introducir a su hijo en la natación. ¡Cinco estrellas en todo!"
+       },
         {
           "name": "Chay",
           "image": "https://lh3.googleusercontent.com/a/ACg8ocLTTKMIMdS1E31rJKVnckOcwFO4B9qHwyAk9Vn5uJ8uO7S-yA=s100-c-rp-mo-br100",
@@ -103,6 +109,14 @@
         }
       ]
     },
+    "newsletter_section": {
+      "title":"¡Suscríbete a <marker>Nuestro Newsletter!</marker>",
+      "description": "No te pierdas nuestras clases especiales de natación para bebés, niños, embarazadas y adultos. Entérate de eventos, descuentos y aprende sobre la prevención, seguridad y el método Miniswimmer para desarrollar nadadores confiados e independientes.",
+      "nameForm": "Ingrese su nombre",
+      "emailForm": "Ingrese su email",
+      "buttonText": "Subscribirse"
+    },
+    
     "features_with_image_section": {
       "title": "¿Conoce nuestro programa?",
       "subtitle": "Nuestro programa de natación está diseñado para ayudar a bebes y niños de todos los niveles a mejorar su técnica, desarrollar resistencia y ganar confianza en el agua. Obtenga más información sobre nuestro programa y cómo puede beneficiarlo.",
@@ -233,13 +247,6 @@
           "answer": "All individual Framer subscriptions have been grandfathered into a Pro plan at your existing rate. If you were on a Small Team plan, then all 5 seats have been converted over to Pro seats at your existing rate."
         }
       ]
-    },
-
-    "newsletter_section": {
-      "title": "Subscribe newsletter",
-      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent condimentum dictum euismod malesuada lacus, non consequat quam.",
-      "input": "Enter your email",
-      "cta": "Subscribe"
     },
     "latest_blog_section": {
       "title": "Latest Blogs & News",
