@@ -5,13 +5,11 @@ import Link from 'next/link';
 const Hero = (props:any) => {
   const { pageTraslation } = props;
   const t = useTranslations(`${pageTraslation}.hero_section`);
-  // const t = useTranslations('homepage.hero_section');
 
   return (
-    <section className=' relative z-1 overflow-hidden bg-primary pb-17.5 pt-30 lg:pb-20 lg:pt-30 xl:pb-25 xl:pt-[170px]'>
+    <section className='relative z-1 overflow-hidden bg-primary pb-17.5 pt-30 lg:pb-20 lg:pt-30 xl:pb-25 xl:pt-[170px]'>
       <div className='mx-auto w-full max-w-[1170px] px-4 sm:px-8 xl:px-0'>
-        <div className='flex flex-col items-center gap-8 lg:flex-row lg:gap-12'>
-          {/* Text Content */}
+        <div className='flex flex-col items-center gap-8 lg:flex-row lg:gap-12'>  
           <div className='w-full text-left lg:w-1/2'>
             <h1 className='mb-5 font-satoshi text-heading-4 font-bold -tracking-[1.6px] text-white dark:text-white lg:text-heading-2 xl:text-[58px] xl:leading-[1.12]'>
               {t.rich('title', {
@@ -38,16 +36,17 @@ const Hero = (props:any) => {
                 ),
               })}
             </h1>
-
-            <p className='mb-7.5 text-lg -tracking-[0.2px] text-white dark:text-gray-5'>
-              {t('subtitle')}
-            </p>
-
-            <Link
-              href='/auth/signin'
-              className='inline-flex items-center gap-4 rounded-full bg-black py-2 pl-7.5 pr-2 font-satoshi font-medium text-white hover:bg-opacity-90 dark:bg-primary'
-            >
-              <span>{t('cta')}</span>
+            
+            <div className='ml-4 mb-5 relative z-10'>
+              <Link 
+                href={t('url')}
+                target="_blank" 
+                rel="noopener noreferrer" 
+                // className='font-satoshi text-heading-4 font-bold -tracking-[1.6px] text-red-700 dark:text-white lg:text-heading-2 xl:text-[48px] xl:leading-[1.12]'
+                className='inline-flex items-center gap-4 rounded-full bg-black py-2 pl-7.5 pr-2 font-satoshi font-medium text-white hover:bg-opacity-90 dark:bg-primary'
+          
+              >
+                <span>{t('cta')}</span>
               <span className='inline-flex h-9 w-9 items-center justify-center rounded-full bg-primary text-white dark:bg-white dark:text-primary'>
                 <svg
                   className='fill-current'
@@ -64,7 +63,8 @@ const Hero = (props:any) => {
                   />
                 </svg>
               </span>
-            </Link>
+              </Link>
+            </div>
           </div>
 
           {/* Image Content */}
@@ -75,6 +75,7 @@ const Hero = (props:any) => {
               width={600}
               height={500}
               className='h-auto w-full rounded-lg'
+              priority
             />
           </div>
         </div>

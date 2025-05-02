@@ -59,10 +59,12 @@
       "cta": "AGENDA TU CLASE",
       "brandshowcase": {
         "description": "Built by the same team behind numerous successful SaaS and digital products"
-      }
+      },
+      "url": "https://wa.me/13053361196?text=Me%20gustaria%20agendar%20una%20clase%20de%20natacion"
+      
     },
     "features_with_image_section": {
-      "title": "¿Conoce nuestro programa?",
+      "title": "¿Conoce nuestro Método?",
       "subtitle": "¿Quieres que tus hijos aprendan a nadar de verdad, con confianza y autonomía en el agua? En nuestra academia, hemos revolucionado la enseñanza de la natación infantil con un método único que integra la Programación Neurolingüística (PNL) y el Coaching.",
       
       "items": [
@@ -89,6 +91,13 @@
           ]
         }
       ]
+    },
+    
+    "counter_section": {
+      "title": "Familias que confian en nuestro método",
+      "type_one": "Familias",
+      "type_two": "Niños/as y bebes felices",
+      "type_three": "Embarazadas y Adultos"
     },
     "testimonials_section": {
       "title": "Lo Que Nuestras Familias Dicen: Historias de Éxito en el Agua",
@@ -137,7 +146,7 @@
           "comment": "No tengo suficientes palabras para expresar lo felices que estuvieron mis sobrinos de recibir la ayuda de miniswimmer. Llegaron con mucho miedo al agua y los profesores les dieron las herramientas para estar más seguros cuando entraran en ella. Muy agradecida por el conocimiento que les brindaron. Excelente servicio."
         }
       ]
-    },
+    },   
     "newsletter_section": {
       "title":"¡Suscríbete a <marker>Nuestro Newsletter!</marker>",
       "description": "No te pierdas nuestras clases especiales de natación para bebés, niños, embarazadas y adultos. Entérate de eventos, descuentos y aprende sobre la prevención, seguridad y el método Miniswimmer para desarrollar nadadores confiados e independientes.",
@@ -145,13 +154,43 @@
       "emailForm": "Ingrese su email",
       "buttonText": "Subscribirse"
     },
-    
-    "counter_section": {
-      "title": "Familias que confian en nuestro método",
-      "type_one": "Familias",
-      "type_two": "Niños/as felices",
-      "type_three": "Niños/as autorescatados"
+    "whatsapp_contact": {
+      "title":"Hablemos por WhatsApp!",
+      "phone": "+1 (305) 336 1196",
+      "url": "https://wa.me/13053361196?text=Necesito%20información%20para%20clases%20de%20natacion"
     },
+    "latest_blog_section": {
+      "title": "Blog: Más Allá del Agua:",
+      "subtitle": "Estimulación Temprana y Desarrollo Infantil. La natación como herramienta transformadora para el crecimiento de tu hijo",
+      "posts": [
+        {
+          "title": "Que es la matronatación y que beneficios tiene",
+          "metadata": "Imagina a tu bebé disfrutando del agua, riendo y fortaleciendo sus músculos, todo mientras crea recuerdos inolvidables contigo. La matronatación no es solo un pasatiempo, es una experiencia transformadora que puede beneficiar enormemente a los bebés desde los 2 meses de edad. Pero, ¿qué es exactamente y cómo puede ayudar a tu pequeño?",
+          "body": ["Imagina a tu bebé disfrutando del agua, riendo y fortaleciendo sus músculos, todo mientras crea recuerdos inolvidables contigo. La matronatación no es solo un pasatiempo, es una experiencia transformadora que puede beneficiar enormemente a los bebés desde los 2 meses de edad. Pero, ¿qué es exactamente y cómo puede ayudar a tu pequeño?"],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SOPHdAxsiBv82K_Screenshot2025-03-26at8.30.52PM.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/que-es-la-matronatacion-y-que-beneficios-tiene",
+          "tags": ["matronatación", "matronatacion", "bebes", "niños", "Método Miniswimmer"]
+        },
+        {
+          "title": "¿Cómo la Programación Neurolingüística Mejora el Aprendizaje de tu Hijo?",
+          "metadata": "¿Te has preguntado alguna vez por qué algunos niños aprenden más rápido que otros? La programación neurolingüística ofrece respuestas fascinantes sobre cómo cada cerebro procesa la información de manera única.",
+          "body": ["¿Te has preguntado alguna vez por qué algunos niños aprenden más rápido que otros? La programación neurolingüística ofrece respuestas fascinantes sobre cómo cada cerebro procesa la información de manera única."],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-NjGXdAxsiBv6B5_pnl-kids.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/como-la-programacion-neurolinguistica-mejora-el-aprendizaje-de-tu-hijo",
+          "tags": ["matronatación", "PNL", "Programación Neurolingüística" ,"Aprendizaje", "bebes", "niños", "Método Miniswimmer"]
+        },
+        {
+          "title": "Beneficios emocionales y sociales de la Matronatación",
+          "metadata": "La matronatación ofrece numerosos beneficios físicos para los bebés de 2 meses o más. El agua proporciona una resistencia suave que ayuda a fortalecer los músculos del bebé de manera gradual y segura.",
+          "body": ["La matronatación ofrece numerosos beneficios físicos para los bebés de 2 meses o más. El agua proporciona una resistencia suave que ayuda a fortalecer los músculos del bebé de manera gradual y segura."],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SPundAxsiBv82c_Screenshot2025-03-26at8.37.16PM.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/beneficios-emocionales-y-sociales-de-la-matronatacion",
+          "tags": ["matronatación", "matronatacion", "bebes", "niños", "Clase de natación niños","Certificación coach de natación", "Clase de natación bebes", "Método Miniswimmer"]
+        }
+      ]
+    },
+    
+    
     "cta_section": {
       "title": "Transforme el futuro de su hijo con Miniswimmer",
       "subtitle": "Nuestro método único combina programación neurolingüística y coaching para garantizar un aprendizaje significativo y duradero.",
@@ -258,11 +297,8 @@
           "answer": "All individual Framer subscriptions have been grandfathered into a Pro plan at your existing rate. If you were on a Small Team plan, then all 5 seats have been converted over to Pro seats at your existing rate."
         }
       ]
-    },
-    "latest_blog_section": {
-      "title": "Latest Blogs & News",
-      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent condimentum dictum euismod malesuada lacus, non consequat quam."
     }
+
   },
   "about": {
     "hero_section": {

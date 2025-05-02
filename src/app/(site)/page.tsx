@@ -1,24 +1,25 @@
-import Home from "@/components/Home";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-	title: `Get to know our unique method in the market`,
-	description: `Swimming Pool, Safety, Accidents, Prevention,, Guidance`,
+	title: "Learn about the Miniswimmer method",
+	description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
 	openGraph: {
 		type: "website",
-		title: `Conoce el método Miniswimmer`,
-		description: `Nuestro método utiliza programación neurolingüística y coaching para que los niños tengan un aprendizaje real y significativo durante toda su vida.`,
+		title: `Learn about the Miniswimmer method`,
+		description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
 		images:
 			"https://images.prismic.io/minifit/f8907eeb-0b15-40b4-b02a-81d122754a11_SOCIAL-MEDIA.png",
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: `Conoce el método Miniswimmer`,
-		description: `Nuestro método utiliza programación neurolingüística y coaching para que los niños tengan un aprendizaje real y significativo durante toda su vida.`,
+		title: `Learn about the Miniswimmer method`,
+		description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
 		images:
 			"https://images.prismic.io/minifit/f8907eeb-0b15-40b4-b02a-81d122754a11_SOCIAL-MEDIA.png",
 	},
 };
+
+import Home from "@/components/Home";
 
 export default function HomePage() {
 	return (

@@ -59,10 +59,11 @@
       "cta": "SCHEDULE A CLASS",
       "brandshowcase": {
         "description": "Built by the same team behind numerous successful SaaS and digital products"
-      }
+      },
+      "url": "https://wa.me/13053361196?text=would%20like%20to%20schedule%20a%20swimming%20lesson"
     },
     "features_with_image_section": {
-      "title": "What is our program about?",
+      "title": "What is our method about?",
       "subtitle": "Imagine your children truly learning to swim, developing real confidence and independence in the water. At our academy, we've revolutionized how kids learn to swim with a unique method integrating Neuro-Linguistic Programming (NLP) and Coaching.",
       "items": [
         {
@@ -89,6 +90,105 @@
         }
       ]
     },
+    "whatsapp_contact": {
+      "title":"Chat with us on WhatsApp!",
+      "phone": "+1 (305) 336 1196",
+      "url": "https://wa.me/13053361196?text=Can%20I%20get%20some%20information%20about%20your%20swimming%20lessons?"
+    },
+    "counter_section": {
+      "title": "Families who trust our method",
+      "type_one": "Families",
+      "type_two": "Happy Children and Babies",
+      "type_three": "Pregnant People, and Adults"
+    },
+    "testimonials_section": {
+      "title": "What Our Families Say: Success Stories in the Water",
+      "subtitle": "Discover why so many families trust us to introduce their little ones to the wonderful aquatic world. These testimonials reflect our commitment to the safety, learning, and fun of each of our swimmers.",
+      "items": [
+        {
+          "name": "Javier Arancibia",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLyjFwriZEGfjKtDx1G1D-39nocPGVyCEaG-8w2KHjhVOH2VQ=s100-c-rp-mo-br100",
+          "designation": "2-month-old's moms",
+          "comment": "Very good classes, and very educational for the children"
+        },
+        {
+          "name": "Avo Queen",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLTTKMIMdS1E31rJKVnckOcwFO4B9qHwyAk9Vn5uJ8uO7S-yA=s100-c-rp-mo-br100",
+          "designation": "2-month-old's mom",
+          "comment": "It was very difficult to find classes for my 2-year-old daughter, as they were all very monotonous and she would get bored. Until I found this school on social media and went to try a class. I was fascinated by the millions of materials and games they use. I had never seen anything like it. My daughter is the happiest now. We enrolled her and she's been attending for 2 months and has already started swimming by herself, and now I can't get her out of the water. We are very happy as a family."
+        },
+        {
+          "name": "Paloma Ferrero",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjU3mM6jVh4fYctriC5VGCwjloBAzgNOlhN3hFN8d85T210x6saX=s100-c-rp-mo-br100",
+          "designation": "3-month-old's mom",
+          "comment": "Excellent classes! The pool is wonderfully set up for children to enjoy, with innovative and colorful materials, and the coaches are by far the best! They all have extensive experience with babies and children. My daughter has an amazing time every visit and has learned so much :)"
+        },
+        {
+          "name": "Andrea Zalavari",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjUvwOvv9w25RU3V_fuo0Ky7Fd9pwPZ5NjYVNM5GUAaxnn6pHUEP=s100-c-rp-mo-br100",
+          "designation": "1-month-old's mom",
+          "comment": "Wonderful experience and method! My little one makes progress in every class and also has a great time! Thank you Miniswimmer ❤️"
+        },
+        {
+          "name": "Sebastián Rubio",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjWzi7DtVEOY-YImKmNLE9SaDtKNH-l4-DMGIr9xCXTDFvswaM9i=s150-c-rp-mo-br100",
+          "designation": "Father of a 3-year-old and a 4-month-old",
+          "comment": "I highly recommend Mini Swimmer's swimming classes for young children. My 1-year and 3-month-old daughter recently attended the program with Nicole. She was patient, gentle, and provided individualized attention in small class sizes. My daughter's confidence and skill in the water improved significantly with each lesson.  She also provided age-appropriate equipment and the focus on water safety was also evident, which is crucial for young children. Overall, Mini Swimmer's swimming classes are fun, effective, and designed to make learning to swim a positive experience. I highly recommend this program to any parent looking to introduce their child to swimming. Five stars all around!"
+        },
+        {
+          "name": "Chay",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLCVtUsjykPMn7pUFldjm3_BI9vGeHKmCjGIJpWmqZIYCuaMZPq=s100-c-rp-mo-br100",
+          "designation": "5-month-old's mom",
+          "comment": "I discovered this swim academy on social media; my son is 8 years old. The location in La Reina is convenient, with private and secure parking. What really stands out is their teaching methodology. The teachers are dedicated and make each class a fun and educational experience. My son has progressed remarkably since he started. At first, he was afraid of water, but now he swims with confidence. The instructors have incredible patience and explain techniques in ways that children easily understand..."
+        },
+        {
+          "name": "Luisa Maldonado",
+          "image": "https://user-images.trustpilot.com/643ecc5a612df50012c3d633/73x73.png",
+          "designation": "Aunt of 5 and 7-year-old nephews",
+          "comment": "I can't tell you enough how happy my nephews were to receive the help of miniswimmer. They came with a lot of fear to the water and the teachers gave them the tools to be safer when they went into the water. So grateful for the knowledge they were given. Excellent service"
+        }
+      ]
+    },
+    "newsletter_section": {
+      
+      "title":"Subscribe to <marker>Our Newsletter!</marker>",
+      "description": "Get updates on special swim classes for all ages (babies, kids, pregnant individuals, adults), events, discounts, and learn about water safety, prevention, and the Miniswimmer method for building confident, independent swimmers.",
+      "nameForm": "Enter your name",
+      "emailForm": "Enter your email",
+      "buttonText": "Subscribe"
+    },
+    "latest_blog_section": {
+      "title": "Blog: Going Deeper Than Water:",
+      "subtitle": "Early Stimulation and Child Development. Swimming: A Powerful Tool for Your Child's Development.",
+      "posts": [
+        {
+          "title": "Baby Swimming: What It Is and Why It's Beneficial",
+          "metadata": "Picture your baby delighting in the water, giggling, and building strength, all while you share precious moments together. Baby swimming is more than just an activity; it's a powerful experience that offers incredible benefits for infants starting as young as 2 months. But what exactly is baby swimming, and how can it support your child's development?",
+          "body": ["Picture your baby delighting in the water, giggling, and building strength, all while you share precious moments together. Baby swimming is more than just an activity; it's a powerful experience that offers incredible benefits for infants starting as young as 2 months. But what exactly is baby swimming, and how can it support your child's development?"],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SOPHdAxsiBv82K_Screenshot2025-03-26at8.30.52PM.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/que-es-la-matronatacion-y-que-beneficios-tiene",
+          "tags": ["baby swimming", "infant swim", "babies", "kids","Miniswimmer Method"]
+        },
+        {
+          "title": "Unlock Your Child's Learning Potential with Neuro-Linguistic Programming",
+          "metadata": "Ever wondered what makes some kids learn so quickly? Neuro-Linguistic Programming provides fascinating answers about how individual brains process information in their own way.",
+          "body": ["Ever wondered what makes some kids learn so quickly? Neuro-Linguistic Programming provides fascinating answers about how individual brains process information in their own way."],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-NjGXdAxsiBv6B5_pnl-kids.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/como-la-programacion-neurolinguistica-mejora-el-aprendizaje-de-tu-hijo",
+          "tags": ["parent and baby swim", "NLP", "Neuro-Linguistic Programming", "Learning", "infants", "kids","Miniswimmer Method"]
+        },
+        {
+          "title": "The Emotional and Social Advantages of Parent & Baby Swim",
+          "metadata": "Parent & baby swim offers a wealth of physical benefits for infants 2 months and up. The water's gentle resistance aids in the gradual and safe strengthening of your baby's muscles.",
+          "body": ["Parent & baby swim offers a wealth of physical benefits for infants 2 months and up. The water's gentle resistance aids in the gradual and safe strengthening of your baby's muscles."],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SPundAxsiBv82c_Screenshot2025-03-26at8.37.16PM.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/beneficios-emocionales-y-sociales-de-la-matronatacion",
+          "tags": ["baby swimming", "infant swim", "babies", "children", "swimming lessons for kids", "swim coach certification", "swimming classes for babies", "Miniswimmer Method"]
+        }
+      ]
+    },
+    
+    
     "features_section": {
       "title": "Developing Independent Swimmers",
       "subtitle": "Everything you need to build, launch, and scale your SaaS startup.",
@@ -191,76 +291,12 @@
       ]
     },
 
-    "testimonials_section": {
-      "title": "What Our Families Say: Success Stories in the Water",
-      "subtitle": "Discover why so many families trust us to introduce their little ones to the wonderful aquatic world. These testimonials reflect our commitment to the safety, learning, and fun of each of our swimmers.",
-      "items": [
-        {
-          "name": "Javier Arancibia",
-          "image": "https://lh3.googleusercontent.com/a/ACg8ocLyjFwriZEGfjKtDx1G1D-39nocPGVyCEaG-8w2KHjhVOH2VQ=s100-c-rp-mo-br100",
-          "designation": "2-month-old's moms",
-          "comment": "Very good classes, and very educational for the children"
-        },
-        {
-          "name": "Avo Queen",
-          "image": "https://lh3.googleusercontent.com/a/ACg8ocLTTKMIMdS1E31rJKVnckOcwFO4B9qHwyAk9Vn5uJ8uO7S-yA=s100-c-rp-mo-br100",
-          "designation": "2-month-old's mom",
-          "comment": "It was very difficult to find classes for my 2-year-old daughter, as they were all very monotonous and she would get bored. Until I found this school on social media and went to try a class. I was fascinated by the millions of materials and games they use. I had never seen anything like it. My daughter is the happiest now. We enrolled her and she's been attending for 2 months and has already started swimming by herself, and now I can't get her out of the water. We are very happy as a family."
-        },
-        {
-          "name": "Paloma Ferrero",
-          "image": "https://lh3.googleusercontent.com/a-/ALV-UjU3mM6jVh4fYctriC5VGCwjloBAzgNOlhN3hFN8d85T210x6saX=s100-c-rp-mo-br100",
-          "designation": "3-month-old's mom",
-          "comment": "Excellent classes! The pool is wonderfully set up for children to enjoy, with innovative and colorful materials, and the coaches are by far the best! They all have extensive experience with babies and children. My daughter has an amazing time every visit and has learned so much :)"
-        },
-        {
-          "name": "Andrea Zalavari",
-          "image": "https://lh3.googleusercontent.com/a-/ALV-UjUvwOvv9w25RU3V_fuo0Ky7Fd9pwPZ5NjYVNM5GUAaxnn6pHUEP=s100-c-rp-mo-br100",
-          "designation": "1-month-old's mom",
-          "comment": "Wonderful experience and method! My little one makes progress in every class and also has a great time! Thank you Miniswimmer ❤️"
-        },
-        {
-          "name": "Sebastián Rubio",
-          "image": "https://lh3.googleusercontent.com/a-/ALV-UjWzi7DtVEOY-YImKmNLE9SaDtKNH-l4-DMGIr9xCXTDFvswaM9i=s150-c-rp-mo-br100",
-          "designation": "Father of a 3-year-old and a 4-month-old",
-          "comment": "I highly recommend Mini Swimmer's swimming classes for young children. My 1-year and 3-month-old daughter recently attended the program with Nicole. She was patient, gentle, and provided individualized attention in small class sizes. My daughter's confidence and skill in the water improved significantly with each lesson.  She also provided age-appropriate equipment and the focus on water safety was also evident, which is crucial for young children. Overall, Mini Swimmer's swimming classes are fun, effective, and designed to make learning to swim a positive experience. I highly recommend this program to any parent looking to introduce their child to swimming. Five stars all around!"
-        },
-        {
-          "name": "Chay",
-          "image": "https://lh3.googleusercontent.com/a/ACg8ocLCVtUsjykPMn7pUFldjm3_BI9vGeHKmCjGIJpWmqZIYCuaMZPq=s100-c-rp-mo-br100",
-          "designation": "5-month-old's mom",
-          "comment": "I discovered this swim academy on social media; my son is 8 years old. The location in La Reina is convenient, with private and secure parking. What really stands out is their teaching methodology. The teachers are dedicated and make each class a fun and educational experience. My son has progressed remarkably since he started. At first, he was afraid of water, but now he swims with confidence. The instructors have incredible patience and explain techniques in ways that children easily understand..."
-        },
-        {
-          "name": "Luisa Maldonado",
-          "image": "https://user-images.trustpilot.com/643ecc5a612df50012c3d633/73x73.png",
-          "designation": "Aunt of 5 and 7-year-old nephews",
-          "comment": "I can't tell you enough how happy my nephews were to receive the help of miniswimmer. They came with a lot of fear to the water and the teachers gave them the tools to be safer when they went into the water. So grateful for the knowledge they were given. Excellent service"
-        }
-      ]
-    },
-    "newsletter_section": {
-      
-      "title":"Subscribe to <marker>Our Newsletter!</marker>",
-      "description": "Get updates on special swim classes for all ages (babies, kids, pregnant individuals, adults), events, discounts, and learn about water safety, prevention, and the Miniswimmer method for building confident, independent swimmers.",
-      "nameForm": "Enter your name",
-      "emailForm": "Enter your email",
-      "buttonText": "Subscribe"
-    },
-    "counter_section": {
-      "title": "Families who trust our method",
-      "type_one": "Families",
-      "type_two": "Happy children",
-      "type_three": "Self-rescued children"
-    },
+   
+
     "cta_section": {
       "title": "Transform your child's future with Miniswimmer",
       "subtitle": "Our unique method combines neurolinguistic programming and coaching to ensure meaningful and lasting learning.",
       "cta": "BOOK YOUR CLASS NOW"
-    },
-    "latest_blog_section": {
-      "title": "Latest Blogs & News",
-      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent condimentum dictum euismod malesuada lacus, non consequat quam."
     }
   },
   "about": {
