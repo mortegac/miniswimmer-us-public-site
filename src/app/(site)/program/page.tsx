@@ -1,19 +1,30 @@
-import React from 'react';
-import Pricing from '@/components/Pricing';
-import { Metadata } from 'next';
+import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: `Pricing - ${process.env.SITE_NAME}`,
-  description: `This is Pricing page for ${process.env.SITE_NAME}`,
-  // other discriptions
+	title: "Learn about the Miniswimmer method",
+	description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
+	openGraph: {
+		type: "website",
+		title: `Learn about the Miniswimmer method`,
+		description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
+		images:
+			"https://images.prismic.io/minifit/f8907eeb-0b15-40b4-b02a-81d122754a11_SOCIAL-MEDIA.png",
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: `Learn about the Miniswimmer method`,
+		description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
+		images:
+			"https://images.prismic.io/minifit/f8907eeb-0b15-40b4-b02a-81d122754a11_SOCIAL-MEDIA.png",
+	},
 };
 
-const PricingPage = () => {
-  return (
-    <main>
-      <Pricing />
-    </main>
-  );
-};
+import Program from "@/components/Program";
 
-export default PricingPage;
+export default function ProgramPage() {
+	return (
+		<main>
+			<Program />
+		</main>
+	);
+}

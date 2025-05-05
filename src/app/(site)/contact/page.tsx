@@ -19,12 +19,12 @@ export const metadata: Metadata = {
 	},
 };
 
-import About from "@/components/About";
+import Contact from "@/components/Contact";
 
-export default function AboutPage() {
+export default function ContactPage() {
 	return (
 		<main>
-			<About />
+			<Contact />
 		</main>
 	);
 }

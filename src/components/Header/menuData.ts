@@ -11,30 +11,31 @@ import { Menu } from '@/types/menu';
  */
 
 export const menuData: Menu[] = [
+
   {
-    id: 1,
+    id: 2,
     titleKey: 'program',
     newTab: false,
     path: '/program',
   },
   {
-    id: 2,
+    id: 3,
     titleKey: 'about',
     newTab: false,
     path: '/about',
   },
   {
-    id: 2,
+    id: 4,
     titleKey: 'pricing',
     newTab: false,
     path: '/pricing',
   },
-  {
-    id: 2,
-    titleKey: 'blog',
-    newTab: false,
-    path: '/blog',
-  },
+  // {
+  //   id: 2,
+  //   titleKey: 'blog',
+  //   newTab: false,
+  //   path: '/blog',
+  // },
 
   // {
   // 	id: 2,

@@ -36,18 +36,17 @@ const Hero = (props:any) => {
                 ),
               })}
             </h1>
-            
-            <div className='ml-4 mb-5 relative z-10'>
+            { t('subtitle') !== "" &&  <p className='mx-auto w-full max-w-[585px] text-slate-100 dark:text-gray-4 text-lg'>{t('subtitle')}</p>}
+           { t('cta') !== "" &&  <div className='ml-4 mb-5 relative z-10'>
               <Link 
                 href={t('url')}
                 target="_blank" 
                 rel="noopener noreferrer" 
-                // className='font-satoshi text-heading-4 font-bold -tracking-[1.6px] text-red-700 dark:text-white lg:text-heading-2 xl:text-[48px] xl:leading-[1.12]'
                 className='inline-flex items-center gap-4 rounded-full bg-black py-2 pl-7.5 pr-2 font-satoshi font-medium text-white hover:bg-opacity-90 dark:bg-primary'
           
               >
                 <span>{t('cta')}</span>
-              <span className='inline-flex h-9 w-9 items-center justify-center rounded-full bg-primary text-white dark:bg-white dark:text-primary'>
+                <span className='inline-flex h-9 w-9 items-center justify-center rounded-full bg-primary text-white dark:bg-white dark:text-primary'>
                 <svg
                   className='fill-current'
                   width='20'
@@ -64,13 +63,15 @@ const Hero = (props:any) => {
                 </svg>
               </span>
               </Link>
-            </div>
+            </div>}
+            
           </div>
 
           {/* Image Content */}
           <div className='w-full lg:w-1/2'>
             <Image
-              src='/images/hero/header-2.png'
+              src={t('image')}
+              // src='/images/hero/header-2.png'
               alt='Hero Image'
               width={600}
               height={500}
@@ -81,26 +82,6 @@ const Hero = (props:any) => {
         </div>
       </div>
 
-      {/* <!-- Hero brands --> */}
-      {/* <div className='mx-auto mt-20 w-full max-w-[1170px] px-4 sm:px-8 lg:mt-25 xl:mt-32.5 xl:px-0'>
-				<h2 className='text-center font-satoshi text-lg font-medium text-black dark:text-white'>
-					{t("brandshowcase.description")}
-				</h2>
-
-				<div className='mt-9 flex flex-wrap items-center justify-center gap-7.5 xl:gap-16'>
-					
-					{brandData?.map((brand, key) => (
-						<Link
-							key={key}
-							href={brand.link}
-							aria-label={brand.name}
-							className='text-dark-4 duration-300 ease-in-out hover:text-dark-3 dark:hover:text-white'
-						>
-							{brand.image}
-						</Link>
-					))}
-				</div>
-			</div> */}
 
       {/* <!-- Hero Bg Shapes --> */}
       {/* <div className='hidden sm:block'>

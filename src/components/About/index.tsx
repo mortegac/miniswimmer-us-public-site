@@ -1,31 +1,49 @@
-import Hero from './Hero';
-import Features from './Features';
-import FeaturesWithImage from './FeaturesWithImage';
-import Counter from './Counter';
-import CallToAction from './CallToAction';
-import Testimonials from './Testimonials';
-// import Pricing from './Pricing';
-import FAQ from './FAQ';
-// import Blog from './Blog';
-import Newsletter from './Newsletter';
+import { Metadata } from "next";
 
-// import { integrations } from '../../../integrations.config';
-
-const About = () => {
-  return (
-    <>
-      <Hero />
-      {/* <Features /> */}
-      <FeaturesWithImage />
-      <Counter />
-      <CallToAction />
-      <Testimonials />
-      {/* <Pricing /> */}
-      <FAQ />
-      <Newsletter />
-      {/* {integrations?.isSanityEnabled && <Blog />} */}
-    </>
-  );
+export const metadata: Metadata = {
+	title: "Learn about the Miniswimmer method",
+	description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
+	openGraph: {
+		type: "website",
+		title: `Learn about the Miniswimmer method`,
+		description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
+		images:
+			"https://images.prismic.io/minifit/f8907eeb-0b15-40b4-b02a-81d122754a11_SOCIAL-MEDIA.png",
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: `Learn about the Miniswimmer method`,
+		description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
+		images:
+			"https://images.prismic.io/minifit/f8907eeb-0b15-40b4-b02a-81d122754a11_SOCIAL-MEDIA.png",
+	},
 };
 
-export default About;
+
+import Hero from "../Common/Hero";
+import FeaturesWithImage from "../Common/FeaturesWithImage";
+import Features from "../Common/Features";
+import Testimonials from "../Common/Testimonials";
+import Newsletter from "../Common/Newsletter";
+import WhatsappContact from "../Common/WhatsappContact";
+import Counter from "../Common/Counter";
+import Blog from "../Common/Blog";
+
+const PAGE:string = "aboutpage"
+const AboutPage = () => {
+	return (
+		<>
+			<Hero pageTraslation={PAGE} />
+			<Counter pageTraslation={PAGE} />
+			<Features pageTraslation={PAGE} />
+			{/* <FeaturesWithImage pageTraslation={PAGE} /> */}
+			{/* <WhatsappContact pageTraslation={PAGE} />
+			<Testimonials pageTraslation={PAGE} /> */}
+			{/* <Newsletter pageTraslation={PAGE}/>
+			 */}
+			 <Blog pageTraslation={PAGE}/>
+		</>
+	);
+};
+
+export default AboutPage;

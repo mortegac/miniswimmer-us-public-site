@@ -19,12 +19,23 @@ export const metadata: Metadata = {
 	},
 };
 
-import About from "@/components/About";
 
-export default function AboutPage() {
+import Hero from "../Common/Hero";
+import Html from "../Common/Html";
+
+const PAGE:string = "privacypolicypage"
+const Home = () => {
 	return (
-		<main>
-			<About />
-		</main>
+		<>
+			<Hero pageTraslation={PAGE} />
+			<Html pageTraslation={PAGE} />
+			{/* <Counter pageTraslation={PAGE} />
+			<WhatsappContact pageTraslation={PAGE} />
+			<Testimonials pageTraslation={PAGE} /> */}
+			{/* <Newsletter pageTraslation={PAGE}/>
+			<Blog pageTraslation={PAGE}/> */}
+		</>
 	);
-}
+};
+
+export default Home;

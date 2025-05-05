@@ -19,12 +19,12 @@ export const metadata: Metadata = {
 	},
 };
 
-import About from "@/components/About";
+import PrivacyPolicy from "@/components/PrivacyPolicy";
 
-export default function AboutPage() {
+export default function PrivacyPolicyPage() {
 	return (
 		<main>
-			<About />
+			<PrivacyPolicy />
 		</main>
 	);
 }
