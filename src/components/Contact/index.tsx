@@ -21,20 +21,21 @@ export const metadata: Metadata = {
 
 
 import Hero from "../Common/Hero";
-import FeaturesWithImage from "../Common/FeaturesWithImage";
+
 import Testimonials from "../Common/Testimonials";
-import Newsletter from "../Common/Newsletter";
+
 import WhatsappContact from "../Common/WhatsappContact";
 import Counter from "../Common/Counter";
-import Blog from "../Common/Blog";
+import ContactForm from "../Common/ContactForm";
+
 
 const PAGE:string = "contactpage"
 const Home = () => {
 	return (
 		<>
 			<Hero pageTraslation={PAGE} />
-			{/* <FeaturesWithImage pageTraslation={PAGE} /> */}
 			<Counter pageTraslation={PAGE} />
+			<ContactForm pageTraslation={PAGE} />
 			<WhatsappContact pageTraslation={PAGE} />
 			<Testimonials pageTraslation={PAGE} />
 			{/* <Newsletter pageTraslation={PAGE}/>

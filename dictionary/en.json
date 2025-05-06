@@ -547,6 +547,118 @@
       "cta": "BOOK YOUR CLASS NOW"
     }
   },
+  "aboutpage": {
+    "hero_section": {
+      "title": "Meet the <marker>Miniswimmer Team</marker>",
+      "subtitle": "Our professionals are Physical Education teachers, Kinesiologists, experts in Water Baby Classes (Matronatación), and focused on excellent management. We provide an effective methodology and an unparalleled learning experience for our students.",
+      "cta": "",
+      "image": "/images/hero/header-about.png",
+      "url": "https://wa.me/13053361196?text=Me%20gustaria%20agendar%20una%20clase%20de%20natacion"
+      
+    },
+    "features_with_image_section": {
+      "title": "¿Conoce nuestro Método?",
+      "subtitle": "¿Quieres que tus hijos aprendan a nadar de verdad, con confianza y autonomía en el agua? En nuestra academia, hemos revolucionado la enseñanza de la natación infantil con un método único que integra la Programación Neurolingüística (PNL) y el Coaching.",
+      
+      "items": [
+        {
+          "subtitle2": "Tranquilidad en el Agua:",
+          "title": "Prevención y Supervivencia Acuática para tus Hijos",
+          "subtitle": "Enseñamos técnicas para evitar ahogamientos y habilidades de supervivencia en el agua.",
+          "img": "https://images.prismic.io/miniswimmerchile/aA_Zv_IqRLdaBr0n_happy-child-2.png?auto=format,compress",
+          "features": [
+            "<marker>Seguridad Proactiva:</marker> Aprendizaje de normas de seguridad esenciales y cómo identificar y evitar peligros acuáticos.", 
+            "<marker>Técnicas de Supervivencia:</marker> Desarrollo de habilidades vitales como flotación, volteo al dorso y desplazamiento seguro en el agua.", 
+            "<marker>Confianza para Actuar:</marker> Fomentamos la calma y la capacidad de respuesta ante situaciones inesperadas, transformando el miedo en seguridad."
+          ]
+        },
+        {
+          "subtitle2": "Libertad en el Agua:",
+          "title": "Autonomía en el Agua",
+          "subtitle": "Creemos en formar nadadores independientes y seguros desde las primeras etapas de su aprendizaje. Nuestro programa está diseñado para cultivar la autonomía en el agua, brindándoles las herramientas y la confianza para desenvolverse por sí mismos con habilidad y seguridad.",
+          "img": "https://images.prismic.io/miniswimmerchile/aA_ZwPIqRLdaBr0o_happy-child.png?auto=format,compress",
+          "features": [
+            "<marker>Independencia Acuática:</marker> Desarrollo de la capacidad de moverse y actuar con confianza sin depender constantemente de un instructor.", 
+            "<marker>Habilidad Consolidada:</marker> Adquisición de técnicas de nado sólidas y eficientes que les permitirán disfrutar del agua durante toda su vida.", 
+            "<marker>Desarrollo Integral:</marker> Fomento de la autoconfianza, la responsabilidad y la toma de decisiones en el entorno acuático."
+          ]
+        }
+      ]
+    },
+    "features_section": {
+			"title": "The Heart of Miniswimmer: Our Team",
+			"subtitle": "At Miniswimmer, our passionate and multidisciplinary team is the heart of our methodology and the key to providing an exceptional experience for every student, from babies to adults. We have dedicated professionals in management, pedagogical coordination, brand development, and technology, in addition to a team of expert coaches and pool hosts committed to safety and learning in a warm and stimulating environment.",
+			"featuresTop": [
+				{
+					"title": "Operations Manager",
+					"description": "Responsible for the efficient management of daily operations, finances, human resources, and the overall administration of the academy to ensure optimal functioning. Their focus is on creating an organized and productive work environment."
+				},
+				{
+					"title": "Pedagogical Coordinator",
+					"description": "Leads the development, implementation, and supervision of the Miniswimmer teaching methodology. Works directly with the coaches to ensure the quality of classes, the application of pedagogical techniques, and the continuous training of the instructor team."
+				},
+        {
+          "title": "Expert Coaches and Kinesiologists",
+          "description": "Our team is made up of physical education teachers certified in Miniswimmer, kinesiologists, and coaches with extensive experience working with children, including specialization in the care of students with ASD, guaranteeing effective learning that is sensitive to their needs."
+        }
+			],
+			"features": [
+				{
+					"title": "Country Manager ",
+					"description": "Responsible for the overall strategy, growth, and expansion of Miniswimmer in the country. Oversees all areas and seeks new opportunities to bring our value proposition to more families and students."
+				},
+				{
+					"title": "Marketing Manager",
+					"description": "Responsible for Miniswimmer's brand strategy, communication, marketing, and advertising. Seeks to strengthen brand identity, increase visibility, and connect with our audience effectively."
+				},
+				{
+					"title": "Pool Host",
+					"description": "Is the first face of Miniswimmer at the pool. Responsible for welcoming students and their families, ensuring a welcoming and safe environment in the facilities, coordinating class logistics, and providing general support to make the pool experience positive and smooth."
+				}
+			]
+		},
+    "counter_section": {
+      "title": "Families who trust our method",
+      "type_one": "Families",
+      "type_two": "Happy Children and Babies",
+      "type_three": "Pregnant People, and Adults"
+    },
+    "latest_blog_section": {
+      "title": "Blog: Going Deeper Than Water:",
+      "subtitle": "Early Stimulation and Child Development. Swimming: A Powerful Tool for Your Child's Development.",
+      "posts": [
+        {
+          "title": "Baby Swimming: What It Is and Why It's Beneficial",
+          "metadata": "Picture your baby delighting in the water, giggling, and building strength, all while you share precious moments together. Baby swimming is more than just an activity; it's a powerful experience that offers incredible benefits for infants starting as young as 2 months. But what exactly is baby swimming, and how can it support your child's development?",
+          "body": ["Picture your baby delighting in the water, giggling, and building strength, all while you share precious moments together. Baby swimming is more than just an activity; it's a powerful experience that offers incredible benefits for infants starting as young as 2 months. But what exactly is baby swimming, and how can it support your child's development?"],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SOPHdAxsiBv82K_Screenshot2025-03-26at8.30.52PM.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/que-es-la-matronatacion-y-que-beneficios-tiene",
+          "tags": ["baby swimming", "infant swim", "babies", "kids","Miniswimmer Method"]
+        },
+        {
+          "title": "Unlock Your Child's Learning Potential with Neuro-Linguistic Programming",
+          "metadata": "Ever wondered what makes some kids learn so quickly? Neuro-Linguistic Programming provides fascinating answers about how individual brains process information in their own way.",
+          "body": ["Ever wondered what makes some kids learn so quickly? Neuro-Linguistic Programming provides fascinating answers about how individual brains process information in their own way."],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-NjGXdAxsiBv6B5_pnl-kids.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/como-la-programacion-neurolinguistica-mejora-el-aprendizaje-de-tu-hijo",
+          "tags": ["parent and baby swim", "NLP", "Neuro-Linguistic Programming", "Learning", "infants", "kids","Miniswimmer Method"]
+        },
+        {
+          "title": "The Emotional and Social Advantages of Parent & Baby Swim",
+          "metadata": "Parent & baby swim offers a wealth of physical benefits for infants 2 months and up. The water's gentle resistance aids in the gradual and safe strengthening of your baby's muscles.",
+          "body": ["Parent & baby swim offers a wealth of physical benefits for infants 2 months and up. The water's gentle resistance aids in the gradual and safe strengthening of your baby's muscles."],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SPundAxsiBv82c_Screenshot2025-03-26at8.37.16PM.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/beneficios-emocionales-y-sociales-de-la-matronatacion",
+          "tags": ["baby swimming", "infant swim", "babies", "children", "swimming lessons for kids", "swim coach certification", "swimming classes for babies", "Miniswimmer Method"]
+        }
+      ]
+    },
+    "cta_section": {
+      "title": "Transforme el futuro de su hijo con Miniswimmer",
+      "subtitle": "Nuestro método único combina programación neurolingüística y coaching para garantizar un aprendizaje significativo y duradero.",
+      "cta": "RESERVE SU CLASE AHORA"
+    }
+  },
   "privacypolicypage": {
     "hero_section": {
       "title": "Learn about our <marker>Privacy Policy</marker>",

@@ -91,7 +91,7 @@ const Features = (props:any) => {
 
         {/* <!-- Features Bg Shapes --> */}
         <div className='hidden sm:block'>
-          <div className='absolute left-0 top-1/2 -z-1 -translate-y-1/2'>
+          <div className='absolute -left-40 -bottom-96 -z-1 -translate-y-1/2'>
             <Image
               src='/images/features/features-shape-01.svg'
               alt='shape'
@@ -99,7 +99,7 @@ const Features = (props:any) => {
               height={600}
             />
           </div>
-          <div className='absolute right-0 top-1/2 -z-1 -translate-y-1/2'>
+          <div className='absolute -right-40 top-48 -z-1 -translate-y-1/2'>
             <Image
               src='/images/features/features-shape-02.svg'
               alt='shape'
