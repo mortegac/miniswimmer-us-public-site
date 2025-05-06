@@ -60,9 +60,252 @@
       "title": "Learn about the <marker>Miniswimmer method</marker>",
       "subtitle": "Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.",
       "cta": "SCHEDULE A CLASS",
-      "brandshowcase": {
-        "description": "Built by the same team behind numerous successful SaaS and digital products"
-      },
+     "image": "/images/hero/header-2.png",
+      "url": "https://wa.me/13053361196?text=would%20like%20to%20schedule%20a%20swimming%20lesson"
+    },
+    "features_with_image_section": {
+      "title": "What is our method about?",
+      "subtitle": "Imagine your children truly learning to swim, developing real confidence and independence in the water. At our academy, we've revolutionized how kids learn to swim with a unique method integrating Neuro-Linguistic Programming (NLP) and Coaching.",
+      "items": [
+        {
+          "subtitle2": "Water Safety and Survival for Your Kids:",
+          "title": "Your Peace of Mind",
+          "subtitle": "We teach skills to prevent drowning and water survival techniques.",
+          "img": "https://images.prismic.io/miniswimmerchile/aA_Zv_IqRLdaBr0n_happy-child-2.png?auto=format,compress",
+          "features": [
+            "<marker>Proactive Safety:</marker> Your child will learn essential safety rules and how to identify and avoid dangers in the water.", 
+            "<marker>Survival Skills:</marker> We develop vital skills like floating, turning onto their back, and moving safely in the water.", 
+            "<marker>Confidence in Emergencies:</marker> We build their calmness and ability to react in unexpected situations, turning fear into a sense of safety."
+          ]
+        },
+        {
+          "subtitle2": "Experience Freedom in the Water:",
+          "title": "Developing Water Autonomy",
+          "subtitle": "We're dedicated to creating independent and confident swimmers from their very first lessons. Our program is designed to cultivate autonomy in the water, equipping them with the tools and the self-assurance to navigate it independently with skill and safety.",
+          "img": "https://images.prismic.io/miniswimmerchile/aA_ZwPIqRLdaBr0o_happy-child.png?auto=format,compress",
+          "features": [
+            "<marker>Building Water Independence:</marker> Developing the confidence and ability to move and act independently in the water, without constant instructor guidance.", 
+            "<marker>Mastering Essential Skills:</marker> Learning strong and efficient swimming techniques that will enable a lifetime of enjoyment in the water.", 
+            "<marker>Fostering Holistic Growth:</marker> Encouraging self-confidence, responsibility, and decision-making abilities in the water."
+          ]
+        }
+      ]
+    },
+    "whatsapp_contact": {
+      "title":"Chat with us on WhatsApp!",
+      "phone": "+1 (305) 336 1196",
+      "url": "https://wa.me/13053361196?text=Can%20I%20get%20some%20information%20about%20your%20swimming%20lessons?"
+    },
+    "counter_section": {
+      "title": "Families who trust our method",
+      "type_one": "Families",
+      "type_two": "Happy Children and Babies",
+      "type_three": "Pregnant People, and Adults"
+    },
+    "testimonials_section": {
+      "title": "What Our Families Say: Success Stories in the Water",
+      "subtitle": "Discover why so many families trust us to introduce their little ones to the wonderful aquatic world. These testimonials reflect our commitment to the safety, learning, and fun of each of our swimmers.",
+      "items": [
+        {
+          "name": "Javier Arancibia",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLyjFwriZEGfjKtDx1G1D-39nocPGVyCEaG-8w2KHjhVOH2VQ=s100-c-rp-mo-br100",
+          "designation": "2-month-old's moms",
+          "comment": "Very good classes, and very educational for the children"
+        },
+        {
+          "name": "Avo Queen",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLTTKMIMdS1E31rJKVnckOcwFO4B9qHwyAk9Vn5uJ8uO7S-yA=s100-c-rp-mo-br100",
+          "designation": "2-month-old's mom",
+          "comment": "It was very difficult to find classes for my 2-year-old daughter, as they were all very monotonous and she would get bored. Until I found this school on social media and went to try a class. I was fascinated by the millions of materials and games they use. I had never seen anything like it. My daughter is the happiest now. We enrolled her and she's been attending for 2 months and has already started swimming by herself, and now I can't get her out of the water. We are very happy as a family."
+        },
+        {
+          "name": "Paloma Ferrero",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjU3mM6jVh4fYctriC5VGCwjloBAzgNOlhN3hFN8d85T210x6saX=s100-c-rp-mo-br100",
+          "designation": "3-month-old's mom",
+          "comment": "Excellent classes! The pool is wonderfully set up for children to enjoy, with innovative and colorful materials, and the coaches are by far the best! They all have extensive experience with babies and children. My daughter has an amazing time every visit and has learned so much :)"
+        },
+        {
+          "name": "Andrea Zalavari",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjUvwOvv9w25RU3V_fuo0Ky7Fd9pwPZ5NjYVNM5GUAaxnn6pHUEP=s100-c-rp-mo-br100",
+          "designation": "1-month-old's mom",
+          "comment": "Wonderful experience and method! My little one makes progress in every class and also has a great time! Thank you Miniswimmer ❤️"
+        },
+        {
+          "name": "Sebastián Rubio",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjWzi7DtVEOY-YImKmNLE9SaDtKNH-l4-DMGIr9xCXTDFvswaM9i=s150-c-rp-mo-br100",
+          "designation": "Father of a 3-year-old and a 4-month-old",
+          "comment": "I highly recommend Mini Swimmer's swimming classes for young children. My 1-year and 3-month-old daughter recently attended the program with Nicole. She was patient, gentle, and provided individualized attention in small class sizes. My daughter's confidence and skill in the water improved significantly with each lesson.  She also provided age-appropriate equipment and the focus on water safety was also evident, which is crucial for young children. Overall, Mini Swimmer's swimming classes are fun, effective, and designed to make learning to swim a positive experience. I highly recommend this program to any parent looking to introduce their child to swimming. Five stars all around!"
+        },
+        {
+          "name": "Chay",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLCVtUsjykPMn7pUFldjm3_BI9vGeHKmCjGIJpWmqZIYCuaMZPq=s100-c-rp-mo-br100",
+          "designation": "5-month-old's mom",
+          "comment": "I discovered this swim academy on social media; my son is 8 years old. The location in La Reina is convenient, with private and secure parking. What really stands out is their teaching methodology. The teachers are dedicated and make each class a fun and educational experience. My son has progressed remarkably since he started. At first, he was afraid of water, but now he swims with confidence. The instructors have incredible patience and explain techniques in ways that children easily understand..."
+        },
+        {
+          "name": "Luisa Maldonado",
+          "image": "https://user-images.trustpilot.com/643ecc5a612df50012c3d633/73x73.png",
+          "designation": "Aunt of 5 and 7-year-old nephews",
+          "comment": "I can't tell you enough how happy my nephews were to receive the help of miniswimmer. They came with a lot of fear to the water and the teachers gave them the tools to be safer when they went into the water. So grateful for the knowledge they were given. Excellent service"
+        }
+      ]
+    },
+    "newsletter_section": {
+      
+      "title":"Subscribe to <marker>Our Newsletter!</marker>",
+      "description": "Get updates on special swim classes for all ages (babies, kids, pregnant individuals, adults), events, discounts, and learn about water safety, prevention, and the Miniswimmer method for building confident, independent swimmers.",
+      "nameForm": "Enter your name",
+      "emailForm": "Enter your email",
+      "buttonText": "Subscribe"
+    },
+    "latest_blog_section": {
+      "title": "Blog: Going Deeper Than Water:",
+      "subtitle": "Early Stimulation and Child Development. Swimming: A Powerful Tool for Your Child's Development.",
+      "posts": [
+        {
+          "title": "Baby Swimming: What It Is and Why It's Beneficial",
+          "metadata": "Picture your baby delighting in the water, giggling, and building strength, all while you share precious moments together. Baby swimming is more than just an activity; it's a powerful experience that offers incredible benefits for infants starting as young as 2 months. But what exactly is baby swimming, and how can it support your child's development?",
+          "body": ["Picture your baby delighting in the water, giggling, and building strength, all while you share precious moments together. Baby swimming is more than just an activity; it's a powerful experience that offers incredible benefits for infants starting as young as 2 months. But what exactly is baby swimming, and how can it support your child's development?"],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SOPHdAxsiBv82K_Screenshot2025-03-26at8.30.52PM.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/que-es-la-matronatacion-y-que-beneficios-tiene",
+          "tags": ["baby swimming", "infant swim", "babies", "kids","Miniswimmer Method"]
+        },
+        {
+          "title": "Unlock Your Child's Learning Potential with Neuro-Linguistic Programming",
+          "metadata": "Ever wondered what makes some kids learn so quickly? Neuro-Linguistic Programming provides fascinating answers about how individual brains process information in their own way.",
+          "body": ["Ever wondered what makes some kids learn so quickly? Neuro-Linguistic Programming provides fascinating answers about how individual brains process information in their own way."],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-NjGXdAxsiBv6B5_pnl-kids.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/como-la-programacion-neurolinguistica-mejora-el-aprendizaje-de-tu-hijo",
+          "tags": ["parent and baby swim", "NLP", "Neuro-Linguistic Programming", "Learning", "infants", "kids","Miniswimmer Method"]
+        },
+        {
+          "title": "The Emotional and Social Advantages of Parent & Baby Swim",
+          "metadata": "Parent & baby swim offers a wealth of physical benefits for infants 2 months and up. The water's gentle resistance aids in the gradual and safe strengthening of your baby's muscles.",
+          "body": ["Parent & baby swim offers a wealth of physical benefits for infants 2 months and up. The water's gentle resistance aids in the gradual and safe strengthening of your baby's muscles."],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SPundAxsiBv82c_Screenshot2025-03-26at8.37.16PM.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/beneficios-emocionales-y-sociales-de-la-matronatacion",
+          "tags": ["baby swimming", "infant swim", "babies", "children", "swimming lessons for kids", "swim coach certification", "swimming classes for babies", "Miniswimmer Method"]
+        }
+      ]
+    },
+    
+    
+    "features_section": {
+      "title": "Developing Independent Swimmers",
+      "subtitle": "Everything you need to build, launch, and scale your SaaS startup.",
+      "features": [
+        {
+          "title": "Ready-to-Use Integrations",
+          "description": "Database (Postgres with Prisma ORM), Auth (NextAuth), Payments (Stripe), Sanity (Blog), MailChimp (Newsletter), OpenAI, Email, and Many More"
+        },
+        {
+          "title": "Cutting-edge Technologies",
+          "description": "Built-with cutting-edge technologies to provide a robust foundation for your SaaS product, giving you a competitive edge in the digital market."
+        },
+        {
+          "title": "High-quality Design",
+          "description": "Every single component and page is designed with attention to detail on Figma and styled with Tailwind CSS for the Next.js front-end."
+        },
+        {
+          "title": "Admin and User Dashboard",
+          "description": "Allows you to easily manage your SaaS operations and enables end-users to easily manage and modify their account settings with ease."
+        },
+        {
+          "title": "Fully Customizable",
+          "description": "SaaSBold provides the flexibility to customize your software's design and functionality to meet your specific business requirements and branding. Everything is highly customizable and modular."
+        },
+        {
+          "title": "Rich Docs and Email Support",
+          "description": "Docs includes detailed, step-by-step guide for every part of SaaSBold. If you need further assistance, simply open a support ticket and we will respond promptly."
+        }
+      ]
+    },
+
+    "pricing_section": {
+      "title": "Simple Affordable Pricing",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent condimentum dictum euismod malesuada lacus, non consequat quam.",
+      "subscription": "monthly",
+      "plans": [
+        {
+          "name": "Basic",
+          "for": "For Individuals",
+          "description": "Lorem ipsum dolor sit amet dolorol met conse ctetur adipiscing elit.",
+          "included": {
+            "title": "What's included",
+            "items": [
+              "All basic features",
+              "Up to 1,000,000 tracked visits",
+              "Premium email support",
+              "Up to 03 team members"
+            ]
+          },
+          "cta": "Get Started"
+        },
+        {
+          "name": "Pro",
+          "for": "For Startups",
+          "description": "Lorem ipsum dolor sit amet dolorol met conse ctetur adipiscing elit.",
+          "included": {
+            "title": "What's included",
+            "items": [
+              "All basic features",
+              "Up to 1,000,000 tracked visits",
+              "Premium email support",
+              "Up to 03 team members"
+            ]
+          },
+          "cta": "Get Started"
+        },
+        {
+          "name": "Enterprise",
+          "for": "For big companies",
+          "description": "Lorem ipsum dolor sit amet dolorol met conse ctetur adipiscing elit.",
+          "included": {
+            "title": "What's included",
+            "items": [
+              "All basic features",
+              "Up to 1,000,000 tracked visits",
+              "Premium email support",
+              "Up to 03 team members"
+            ]
+          },
+          "cta": "Get Started"
+        }
+      ]
+    },
+    "faq_section": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent condimentum dictum euismod malesuada lacus, non consequat quam.",
+      "items": [
+        {
+          "question": "Does this app offer a free trial period?",
+          "answer": "All individual Framer subscriptions have been grandfathered into a Pro plan at your existing rate. If you were on a Small Team plan, then all 5 seats have been converted over to Pro seats at your existing rate."
+        },
+        {
+          "question": "How much does this app cost?",
+          "answer": "All individual Framer subscriptions have been grandfathered into a Pro plan at your existing rate. If you were on a Small Team plan, then all 5 seats have been converted over to Pro seats at your existing rate."
+        },
+        {
+          "question": "What's the refund policy?",
+          "answer": "All individual Framer subscriptions have been grandfathered into a Pro plan at your existing rate. If you were on a Small Team plan, then all 5 seats have been converted over to Pro seats at your existing rate."
+        }
+      ]
+    },
+
+   
+
+    "cta_section": {
+      "title": "Transform your child's future with Miniswimmer",
+      "subtitle": "Our unique method combines neurolinguistic programming and coaching to ensure meaningful and lasting learning.",
+      "cta": "BOOK YOUR CLASS NOW"
+    }
+  },
+  "programpage": {
+    "hero_section": {
+      "title": "What is <marker>our program</marker> about? ",
+      "subtitle": "Our swimming program is designed to help swimmers of all levels improve their technique, build endurance, and gain confidence in the water. Learn more about our program and how it can benefit you.",
+      "cta": "SCHEDULE A CLASS",
+      "image": "/images/hero/header-childs.png",
       "url": "https://wa.me/13053361196?text=would%20like%20to%20schedule%20a%20swimming%20lesson"
     },
     "features_with_image_section": {
@@ -307,7 +550,7 @@
       "title": "How can <marker>we help?</marker>",
       "subtitle": "Tell us about yourself and we'll connect you with an expert who can answer any questions you have.",
       "cta": "",
-
+      "image": "/images/hero/header-contact.png",
       "url": "https://wa.me/13053361196?text=would%20like%20to%20schedule%20a%20swimming%20lesson"
     },
     "features_with_image_section": {
@@ -659,69 +902,45 @@
       "cta": "RESERVE SU CLASE AHORA"
     }
   },
-  "privacypolicypage": {
+  "pricingpage": {
     "hero_section": {
-      "title": "Learn about our <marker>Privacy Policy</marker>",
-      "subtitle": "Mini Swimmer details its privacy practices regarding the collection, use, and protection of personal data from both children (with parental consent) and their guardians for managing swimming services. Users have rights to access, modify, or delete their data, and the policy outlines security measures and contact information for inquiries.",
+      "title": "Pricing for our  <marker>Class Packages</marker>",
+      "subtitle": "Discover our swimming rates for regular, premium, and at-home locations. Classes for babies, children, adults, and pregnant individuals with certified instructors, from 2 months old to advanced levels.",
       "cta": "",
+      "image": "/images/hero/header-pricing.png",
       "url": "https://wa.me/13053361196?text=Me%20gustaria%20agendar%20una%20clase%20de%20natacion"
       
     },
-    "htmlContent": {
-      "str":"<h3>1. General Information</h3><p>At Miniswimmer Chile, we are committed to protecting the privacy of our users and their children. This privacy policy explains how we collect, use, and protect the personal information you provide to us through our website and during the provision of our swimming services.</p><h3>2. Information We Collect</h3><h5>2.1 Children's Data</h5><ul>    <li>Full name</li>    <li>Date of birth</li>    <li>Medical history relevant to swimming practice</li>    <li>Photographs and videos (verbal authorization is requested from parents; if you do not want to appear on our social media, please email us at hola@miniswimmer.cl)</li></ul><h5>2.2 Parents' or Legal Guardians' Data</h5><ul>    <li>Full name</li>    <li>Contact information (phone, email, address)</li>    <li>Billing information</li>    <li>Legal documentation proving the identity of the guardian(s)</li></ul><h3>3. Use of Information</h3><p>We use the collected information to:</p><ul></ul>    <li>Manage swimming classes and groups</li>    <li>Maintain communication about student progress</li>    <li>Send important information about classes and events</li>    <li>Manage payments and billing</li>    <li>Ensure the safety and well-being of students</li>    <li>Comply with legal and regulatory requirements</li></ul><h3>4. Protection of Children's Data</h3>We are particularly careful with the processing of children's data:<ul>    <li>We only collect children's data with the express consent of their parents or legal guardians</li>    <li>We limit access to children's information only to authorized personnel</li>    <li>We do not share children's information with third parties without parental authorization</li>    <li>We implement specific security measures to protect this data</li></ul><h3>5. Users' Rights</h3><p>Parents or legal guardians have the right to:</p><ul>    <li>Access the personal data we have about their children</li>    <li>Request the correction of incorrect data</li>    <li>Request the deletion of data</li>    <li>Revoke consent for the use of images</li>    <li>File a complaint with the data protection authority</li></ul><h3>6. Information Security</h3><p>We implement technical and organizational security measures to protect your information:</p><ul>    <li>Encryption of sensitive data</li>    <li>Access control to information</li>    <li>Regular backups</li>    <li>Staff training in data protection</li></ul><h3>7. Cookies and Tracking Technologies</h3><p>Our website uses essential cookies to:</p><ul>    <li>Maintain user session</li>    <li>Remember browsing preferences</li>    <li>Improve user experience</li>    <li>Analyze website usage</li></ul><h3>8. Contact</h3><p>For any questions about this privacy policy or to exercise your rights, you can contact us:</p><ul>    <li>Email: hola@miniswimmer.cl</li>    <li>Phone (WhatsApp only): +1 (305) 336 1196</li></ul><h3>9. Policy Updates</h3><p>We reserve the right to update this privacy policy when necessary. Significant changes will be notified through our website or by email.</p><p>Last updated: August 1, 2024</p>"
-    }
-  },
-  "termsandconditionspage": {
-    "hero_section": {
-      "title": "Learn about our <marker>Terms and Conditions of Service</marker>",
-      "subtitle": "Mini Swimmer's services require registration with medical details and age proof, have a cancellation/rescheduling policy with advance notice, and enforce class rules like timely arrival and proper attire for both children and guardians.",
-      "cta": "",
-      "url": ""
-    },
-    "htmlContent": {
-      "str":"<h3>1. Introduction</h3><p>These Terms and Conditions establish the rules and regulations for the use of the services provided by Mini Swimmer, a school specializing in swimming for babies and children.</p><h3>2. Registration and Enrollment</h3><h5>2.1 Registration Requirements</h5><ul>    <li>Parents or legal guardians must complete the registration form.</li>    <li>Relevant medical information of the student must be provided.</li>    <li>It is mandatory to present documentation that proves the student's age.</li>    <li>Parents must sign the consent and liability documents.</li>    </ul><h5>2.2 Initial Assessment</h5><ul>    <li>All new students will be evaluated to determine their level.</li>    <li>Group assignment will be based on age and skill level.</li></ul><h3>3. Payment Policy</h3><h5>3.1 Fees</h5><ul>    <li>Prices are subject to change with prior notice.</li>    <li>Payment must be made before the start of classes.</li>    <li>We offer different payment methods depending on availability.</li></ul><h5>3.2 Class Packages</h5><ul>    <li>Monthly package of 4 sessions: Validity of 30 days</li>    <li>Monthly package of 8 sessions: Validity of 45 days</li>     <li>Semester package of 24 sessions: Validity of 200 days</li>     <li>Quarterly package of 12 sessions: Validity of 100 days</li>    <li>The validity period begins on the day of the first class</li></ul><h3>4. Cancellation and Rescheduling Policy</h3><h5>4.1 Cancellations</h5><ul>    <li>Cancellations must be made at least 12 hours in advance.</li>    <li>Cancellations with less notice are not eligible for rescheduling.</li>    <li>No refunds will be issued.</li></ul><h5>4.2 Rescheduling</h5><ul>    <li>Classes canceled with the required notice can be rescheduled.</li>    <li>Rescheduling is subject to availability.</li>    <li>Classes must be taken within the validity period of the package.</li></ul><h5>4.3 Class Transfers</h5><ul>    <li>Sessions can be transferred to another child.</li>    <li>The transfer must be notified to and approved by administration.</li>    <li>To request a transfer, you must send an email to hola@miniswimmer.cl indicating all the information of the student to whom the classes will be transferred.</li></ul><h3>5. Class Rules</h3><h5>5.1 Attendance Requirements</h5><ul>    <li>Arrive 10 minutes before the start of the class.</li>    <li>Mandatory use of a swimsuit and swimming cap for the child and the accompanying adult.</li>    <li>Mandatory use of a swim diaper for babies and children who are not toilet trained.</li>    <li>Showering before class is mandatory.</li></ul><h5>5.2 Supervision</h5><ul>    <li>Parents/guardians of babies and young children must remain during the class.</li>    <li>Only one accompanying adult per student is allowed in the pool area.</li></ul><h3>6. Safety and Health</h3><h5>6.1 Health Conditions</h5><ul>    <li>Students with contagious diseases will not be allowed entry.</li>    <li>Any relevant medical condition must be reported.</li>    <li>The school reserves the right to request a medical certificate.</li></ul><h5>6.2 Safety Measures</h5><ul>    <li>Students must follow the instructor's instructions at all times.</li>    <li>The school has certified first aid personnel.</li>    <li>Updated safety and hygiene protocols are maintained.</li></ul><h3>7. Rights and Responsibilities</h3><h5>7.1 Of the School</h5><ul>    <li>Guarantee the quality of teaching.</li>    <li>Maintain equipment in optimal condition.</li>    <li>Provide qualified personnel.</li>    <li>Ensure a safe and appropriate environment.</li></ul><h5>7.2 Of Students/Parents</h5><ul>    <li>Comply with the established rules.</li>    <li>Respect the schedules.</li>    <li>Maintain updated contact information.</li>    <li>Inform about changes in the student's health.</li></ul><h5>7.3 Disclaimer of Liability for Facility Events</h5><ul>    <li>Mini Swimmer operates in leased facilities and has no control over the general management of the premises.</li>    <li>The school is exempt from liability in case of:        <ul>            <li>Sports events or competitions scheduled by the facility</li>            <li>Unexpected closures for facility maintenance</li>            <li>Special lane reservations by the facility</li>            <li>Any other circumstance beyond the direct control of Mini Swimmer</li>        </ul>    </li>    <li>In these cases, affected classes will be rescheduled within the validity period of the package.</li>    <li>If rescheduling is not possible within the validity period, the deadline to take the affected classes will be exceptionally extended.</li>    <li>Mini Swimmer commits to notify as far in advance as possible any changes in the schedule due to these events.</li>    <li>These situations will not entitle to a refund.</li>    </ul><h3>8. Modifications and Termination of Service</h3><ul>    <li>The school reserves the right to modify these terms and conditions.</li>    <li>Changes will be notified in advance.</li>    <li>The school may terminate the service in case of serious breach of contract.</li>  </ul><h3>9. Contact</h3><p>For inquiries about these terms and conditions:</p><ul>    <li>Email: hola@miniswimmer.cl</li>    <li>Phone (WhatsApp only): +1 (305) 336 1196</li>  </ul><p>Last updated: August 1, 2024</p>"
-    }
-  },
-  "programpage": {
-    "hero_section": {
-      "title": "What is <marker>our program</marker> about? ",
-      "subtitle": "Our swimming program is designed to help swimmers of all levels improve their technique, build endurance, and gain confidence in the water. Learn more about our program and how it can benefit you.",
-      "cta": "SCHEDULE A CLASS",
-      "url": "https://wa.me/13053361196?text=would%20like%20to%20schedule%20a%20swimming%20lesson"
-    },
     "features_with_image_section": {
-      "title": "What is our method about?",
-      "subtitle": "Imagine your children truly learning to swim, developing real confidence and independence in the water. At our academy, we've revolutionized how kids learn to swim with a unique method integrating Neuro-Linguistic Programming (NLP) and Coaching.",
+      "title": "¿Conoce nuestro Método?",
+      "subtitle": "¿Quieres que tus hijos aprendan a nadar de verdad, con confianza y autonomía en el agua? En nuestra academia, hemos revolucionado la enseñanza de la natación infantil con un método único que integra la Programación Neurolingüística (PNL) y el Coaching.",
+      
       "items": [
         {
-          "subtitle2": "Water Safety and Survival for Your Kids:",
-          "title": "Your Peace of Mind",
-          "subtitle": "We teach skills to prevent drowning and water survival techniques.",
+          "subtitle2": "Tranquilidad en el Agua:",
+          "title": "Prevención y Supervivencia Acuática para tus Hijos",
+          "subtitle": "Enseñamos técnicas para evitar ahogamientos y habilidades de supervivencia en el agua.",
           "img": "https://images.prismic.io/miniswimmerchile/aA_Zv_IqRLdaBr0n_happy-child-2.png?auto=format,compress",
           "features": [
-            "<marker>Proactive Safety:</marker> Your child will learn essential safety rules and how to identify and avoid dangers in the water.", 
-            "<marker>Survival Skills:</marker> We develop vital skills like floating, turning onto their back, and moving safely in the water.", 
-            "<marker>Confidence in Emergencies:</marker> We build their calmness and ability to react in unexpected situations, turning fear into a sense of safety."
+            "<marker>Seguridad Proactiva:</marker> Aprendizaje de normas de seguridad esenciales y cómo identificar y evitar peligros acuáticos.", 
+            "<marker>Técnicas de Supervivencia:</marker> Desarrollo de habilidades vitales como flotación, volteo al dorso y desplazamiento seguro en el agua.", 
+            "<marker>Confianza para Actuar:</marker> Fomentamos la calma y la capacidad de respuesta ante situaciones inesperadas, transformando el miedo en seguridad."
           ]
         },
         {
-          "subtitle2": "Experience Freedom in the Water:",
-          "title": "Developing Water Autonomy",
-          "subtitle": "We're dedicated to creating independent and confident swimmers from their very first lessons. Our program is designed to cultivate autonomy in the water, equipping them with the tools and the self-assurance to navigate it independently with skill and safety.",
+          "subtitle2": "Libertad en el Agua:",
+          "title": "Autonomía en el Agua",
+          "subtitle": "Creemos en formar nadadores independientes y seguros desde las primeras etapas de su aprendizaje. Nuestro programa está diseñado para cultivar la autonomía en el agua, brindándoles las herramientas y la confianza para desenvolverse por sí mismos con habilidad y seguridad.",
           "img": "https://images.prismic.io/miniswimmerchile/aA_ZwPIqRLdaBr0o_happy-child.png?auto=format,compress",
           "features": [
-            "<marker>Building Water Independence:</marker> Developing the confidence and ability to move and act independently in the water, without constant instructor guidance.", 
-            "<marker>Mastering Essential Skills:</marker> Learning strong and efficient swimming techniques that will enable a lifetime of enjoyment in the water.", 
-            "<marker>Fostering Holistic Growth:</marker> Encouraging self-confidence, responsibility, and decision-making abilities in the water."
+            "<marker>Independencia Acuática:</marker> Desarrollo de la capacidad de moverse y actuar con confianza sin depender constantemente de un instructor.", 
+            "<marker>Habilidad Consolidada:</marker> Adquisición de técnicas de nado sólidas y eficientes que les permitirán disfrutar del agua durante toda su vida.", 
+            "<marker>Desarrollo Integral:</marker> Fomento de la autoconfianza, la responsabilidad y la toma de decisiones en el entorno acuático."
           ]
         }
       ]
     },
-    "whatsapp_contact": {
-      "title":"Chat with us on WhatsApp!",
-      "phone": "+1 (305) 336 1196",
-      "url": "https://wa.me/13053361196?text=Can%20I%20get%20some%20information%20about%20your%20swimming%20lessons?"
-    },
+    
     "counter_section": {
       "title": "Families who trust our method",
       "type_one": "Families",
@@ -775,157 +994,43 @@
           "comment": "I can't tell you enough how happy my nephews were to receive the help of miniswimmer. They came with a lot of fear to the water and the teachers gave them the tools to be safer when they went into the water. So grateful for the knowledge they were given. Excellent service"
         }
       ]
+    }, 
+    "whatsapp_contact": {
+      "title":"Chat with us on WhatsApp!",
+      "phone": "+1 (305) 336 1196",
+      "url": "https://wa.me/13053361196?text=Can%20I%20get%20some%20information%20about%20your%20swimming%20lessons?"
     },
-    "newsletter_section": {
-      
-      "title":"Subscribe to <marker>Our Newsletter!</marker>",
-      "description": "Get updates on special swim classes for all ages (babies, kids, pregnant individuals, adults), events, discounts, and learn about water safety, prevention, and the Miniswimmer method for building confident, independent swimmers.",
-      "nameForm": "Enter your name",
-      "emailForm": "Enter your email",
-      "buttonText": "Subscribe"
-    },
-    "latest_blog_section": {
-      "title": "Blog: Going Deeper Than Water:",
-      "subtitle": "Early Stimulation and Child Development. Swimming: A Powerful Tool for Your Child's Development.",
-      "posts": [
-        {
-          "title": "Baby Swimming: What It Is and Why It's Beneficial",
-          "metadata": "Picture your baby delighting in the water, giggling, and building strength, all while you share precious moments together. Baby swimming is more than just an activity; it's a powerful experience that offers incredible benefits for infants starting as young as 2 months. But what exactly is baby swimming, and how can it support your child's development?",
-          "body": ["Picture your baby delighting in the water, giggling, and building strength, all while you share precious moments together. Baby swimming is more than just an activity; it's a powerful experience that offers incredible benefits for infants starting as young as 2 months. But what exactly is baby swimming, and how can it support your child's development?"],
-          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SOPHdAxsiBv82K_Screenshot2025-03-26at8.30.52PM.png?auto=format,compress?imwidth=1920",
-          "url": "https://miniswimmer.academy/blog/que-es-la-matronatacion-y-que-beneficios-tiene",
-          "tags": ["baby swimming", "infant swim", "babies", "kids","Miniswimmer Method"]
-        },
-        {
-          "title": "Unlock Your Child's Learning Potential with Neuro-Linguistic Programming",
-          "metadata": "Ever wondered what makes some kids learn so quickly? Neuro-Linguistic Programming provides fascinating answers about how individual brains process information in their own way.",
-          "body": ["Ever wondered what makes some kids learn so quickly? Neuro-Linguistic Programming provides fascinating answers about how individual brains process information in their own way."],
-          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-NjGXdAxsiBv6B5_pnl-kids.png?auto=format,compress?imwidth=1920",
-          "url": "https://miniswimmer.academy/blog/como-la-programacion-neurolinguistica-mejora-el-aprendizaje-de-tu-hijo",
-          "tags": ["parent and baby swim", "NLP", "Neuro-Linguistic Programming", "Learning", "infants", "kids","Miniswimmer Method"]
-        },
-        {
-          "title": "The Emotional and Social Advantages of Parent & Baby Swim",
-          "metadata": "Parent & baby swim offers a wealth of physical benefits for infants 2 months and up. The water's gentle resistance aids in the gradual and safe strengthening of your baby's muscles.",
-          "body": ["Parent & baby swim offers a wealth of physical benefits for infants 2 months and up. The water's gentle resistance aids in the gradual and safe strengthening of your baby's muscles."],
-          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SPundAxsiBv82c_Screenshot2025-03-26at8.37.16PM.png?auto=format,compress?imwidth=1920",
-          "url": "https://miniswimmer.academy/blog/beneficios-emocionales-y-sociales-de-la-matronatacion",
-          "tags": ["baby swimming", "infant swim", "babies", "children", "swimming lessons for kids", "swim coach certification", "swimming classes for babies", "Miniswimmer Method"]
-        }
-      ]
-    },
-    
-    
-    "features_section": {
-      "title": "Developing Independent Swimmers",
-      "subtitle": "Everything you need to build, launch, and scale your SaaS startup.",
-      "features": [
-        {
-          "title": "Ready-to-Use Integrations",
-          "description": "Database (Postgres with Prisma ORM), Auth (NextAuth), Payments (Stripe), Sanity (Blog), MailChimp (Newsletter), OpenAI, Email, and Many More"
-        },
-        {
-          "title": "Cutting-edge Technologies",
-          "description": "Built-with cutting-edge technologies to provide a robust foundation for your SaaS product, giving you a competitive edge in the digital market."
-        },
-        {
-          "title": "High-quality Design",
-          "description": "Every single component and page is designed with attention to detail on Figma and styled with Tailwind CSS for the Next.js front-end."
-        },
-        {
-          "title": "Admin and User Dashboard",
-          "description": "Allows you to easily manage your SaaS operations and enables end-users to easily manage and modify their account settings with ease."
-        },
-        {
-          "title": "Fully Customizable",
-          "description": "SaaSBold provides the flexibility to customize your software's design and functionality to meet your specific business requirements and branding. Everything is highly customizable and modular."
-        },
-        {
-          "title": "Rich Docs and Email Support",
-          "description": "Docs includes detailed, step-by-step guide for every part of SaaSBold. If you need further assistance, simply open a support ticket and we will respond promptly."
-        }
-      ]
-    },
-
-    "pricing_section": {
-      "title": "Simple Affordable Pricing",
-      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent condimentum dictum euismod malesuada lacus, non consequat quam.",
-      "subscription": "monthly",
-      "plans": [
-        {
-          "name": "Basic",
-          "for": "For Individuals",
-          "description": "Lorem ipsum dolor sit amet dolorol met conse ctetur adipiscing elit.",
-          "included": {
-            "title": "What's included",
-            "items": [
-              "All basic features",
-              "Up to 1,000,000 tracked visits",
-              "Premium email support",
-              "Up to 03 team members"
-            ]
-          },
-          "cta": "Get Started"
-        },
-        {
-          "name": "Pro",
-          "for": "For Startups",
-          "description": "Lorem ipsum dolor sit amet dolorol met conse ctetur adipiscing elit.",
-          "included": {
-            "title": "What's included",
-            "items": [
-              "All basic features",
-              "Up to 1,000,000 tracked visits",
-              "Premium email support",
-              "Up to 03 team members"
-            ]
-          },
-          "cta": "Get Started"
-        },
-        {
-          "name": "Enterprise",
-          "for": "For big companies",
-          "description": "Lorem ipsum dolor sit amet dolorol met conse ctetur adipiscing elit.",
-          "included": {
-            "title": "What's included",
-            "items": [
-              "All basic features",
-              "Up to 1,000,000 tracked visits",
-              "Premium email support",
-              "Up to 03 team members"
-            ]
-          },
-          "cta": "Get Started"
-        }
-      ]
-    },
-    "faq_section": {
-      "title": "Frequently Asked Questions",
-      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent condimentum dictum euismod malesuada lacus, non consequat quam.",
-      "items": [
-        {
-          "question": "Does this app offer a free trial period?",
-          "answer": "All individual Framer subscriptions have been grandfathered into a Pro plan at your existing rate. If you were on a Small Team plan, then all 5 seats have been converted over to Pro seats at your existing rate."
-        },
-        {
-          "question": "How much does this app cost?",
-          "answer": "All individual Framer subscriptions have been grandfathered into a Pro plan at your existing rate. If you were on a Small Team plan, then all 5 seats have been converted over to Pro seats at your existing rate."
-        },
-        {
-          "question": "What's the refund policy?",
-          "answer": "All individual Framer subscriptions have been grandfathered into a Pro plan at your existing rate. If you were on a Small Team plan, then all 5 seats have been converted over to Pro seats at your existing rate."
-        }
-      ]
-    },
-
    
-
     "cta_section": {
-      "title": "Transform your child's future with Miniswimmer",
-      "subtitle": "Our unique method combines neurolinguistic programming and coaching to ensure meaningful and lasting learning.",
-      "cta": "BOOK YOUR CLASS NOW"
+      "title": "Transforme el futuro de su hijo con Miniswimmer",
+      "subtitle": "Nuestro método único combina programación neurolingüística y coaching para garantizar un aprendizaje significativo y duradero.",
+      "cta": "RESERVE SU CLASE AHORA"
     }
   },
+  "privacypolicypage": {
+    "hero_section": {
+      "title": "Learn about our <marker>Privacy Policy</marker>",
+      "subtitle": "Mini Swimmer details its privacy practices regarding the collection, use, and protection of personal data from both children (with parental consent) and their guardians for managing swimming services. Users have rights to access, modify, or delete their data, and the policy outlines security measures and contact information for inquiries.",
+      "cta": "",
+      "url": "https://wa.me/13053361196?text=Me%20gustaria%20agendar%20una%20clase%20de%20natacion"
+      
+    },
+    "htmlContent": {
+      "str":"<h3>1. General Information</h3><p>At Miniswimmer Chile, we are committed to protecting the privacy of our users and their children. This privacy policy explains how we collect, use, and protect the personal information you provide to us through our website and during the provision of our swimming services.</p><h3>2. Information We Collect</h3><h5>2.1 Children's Data</h5><ul>    <li>Full name</li>    <li>Date of birth</li>    <li>Medical history relevant to swimming practice</li>    <li>Photographs and videos (verbal authorization is requested from parents; if you do not want to appear on our social media, please email us at hola@miniswimmer.cl)</li></ul><h5>2.2 Parents' or Legal Guardians' Data</h5><ul>    <li>Full name</li>    <li>Contact information (phone, email, address)</li>    <li>Billing information</li>    <li>Legal documentation proving the identity of the guardian(s)</li></ul><h3>3. Use of Information</h3><p>We use the collected information to:</p><ul></ul>    <li>Manage swimming classes and groups</li>    <li>Maintain communication about student progress</li>    <li>Send important information about classes and events</li>    <li>Manage payments and billing</li>    <li>Ensure the safety and well-being of students</li>    <li>Comply with legal and regulatory requirements</li></ul><h3>4. Protection of Children's Data</h3>We are particularly careful with the processing of children's data:<ul>    <li>We only collect children's data with the express consent of their parents or legal guardians</li>    <li>We limit access to children's information only to authorized personnel</li>    <li>We do not share children's information with third parties without parental authorization</li>    <li>We implement specific security measures to protect this data</li></ul><h3>5. Users' Rights</h3><p>Parents or legal guardians have the right to:</p><ul>    <li>Access the personal data we have about their children</li>    <li>Request the correction of incorrect data</li>    <li>Request the deletion of data</li>    <li>Revoke consent for the use of images</li>    <li>File a complaint with the data protection authority</li></ul><h3>6. Information Security</h3><p>We implement technical and organizational security measures to protect your information:</p><ul>    <li>Encryption of sensitive data</li>    <li>Access control to information</li>    <li>Regular backups</li>    <li>Staff training in data protection</li></ul><h3>7. Cookies and Tracking Technologies</h3><p>Our website uses essential cookies to:</p><ul>    <li>Maintain user session</li>    <li>Remember browsing preferences</li>    <li>Improve user experience</li>    <li>Analyze website usage</li></ul><h3>8. Contact</h3><p>For any questions about this privacy policy or to exercise your rights, you can contact us:</p><ul>    <li>Email: hola@miniswimmer.cl</li>    <li>Phone (WhatsApp only): +1 (305) 336 1196</li></ul><h3>9. Policy Updates</h3><p>We reserve the right to update this privacy policy when necessary. Significant changes will be notified through our website or by email.</p><p>Last updated: August 1, 2024</p>"
+    }
+  },
+  "termsandconditionspage": {
+    "hero_section": {
+      "title": "Learn about our <marker>Terms and Conditions of Service</marker>",
+      "subtitle": "Mini Swimmer's services require registration with medical details and age proof, have a cancellation/rescheduling policy with advance notice, and enforce class rules like timely arrival and proper attire for both children and guardians.",
+      "cta": "",
+      "url": ""
+    },
+    "htmlContent": {
+      "str":"<h3>1. Introduction</h3><p>These Terms and Conditions establish the rules and regulations for the use of the services provided by Mini Swimmer, a school specializing in swimming for babies and children.</p><h3>2. Registration and Enrollment</h3><h5>2.1 Registration Requirements</h5><ul>    <li>Parents or legal guardians must complete the registration form.</li>    <li>Relevant medical information of the student must be provided.</li>    <li>It is mandatory to present documentation that proves the student's age.</li>    <li>Parents must sign the consent and liability documents.</li>    </ul><h5>2.2 Initial Assessment</h5><ul>    <li>All new students will be evaluated to determine their level.</li>    <li>Group assignment will be based on age and skill level.</li></ul><h3>3. Payment Policy</h3><h5>3.1 Fees</h5><ul>    <li>Prices are subject to change with prior notice.</li>    <li>Payment must be made before the start of classes.</li>    <li>We offer different payment methods depending on availability.</li></ul><h5>3.2 Class Packages</h5><ul>    <li>Monthly package of 4 sessions: Validity of 30 days</li>    <li>Monthly package of 8 sessions: Validity of 45 days</li>     <li>Semester package of 24 sessions: Validity of 200 days</li>     <li>Quarterly package of 12 sessions: Validity of 100 days</li>    <li>The validity period begins on the day of the first class</li></ul><h3>4. Cancellation and Rescheduling Policy</h3><h5>4.1 Cancellations</h5><ul>    <li>Cancellations must be made at least 12 hours in advance.</li>    <li>Cancellations with less notice are not eligible for rescheduling.</li>    <li>No refunds will be issued.</li></ul><h5>4.2 Rescheduling</h5><ul>    <li>Classes canceled with the required notice can be rescheduled.</li>    <li>Rescheduling is subject to availability.</li>    <li>Classes must be taken within the validity period of the package.</li></ul><h5>4.3 Class Transfers</h5><ul>    <li>Sessions can be transferred to another child.</li>    <li>The transfer must be notified to and approved by administration.</li>    <li>To request a transfer, you must send an email to hola@miniswimmer.cl indicating all the information of the student to whom the classes will be transferred.</li></ul><h3>5. Class Rules</h3><h5>5.1 Attendance Requirements</h5><ul>    <li>Arrive 10 minutes before the start of the class.</li>    <li>Mandatory use of a swimsuit and swimming cap for the child and the accompanying adult.</li>    <li>Mandatory use of a swim diaper for babies and children who are not toilet trained.</li>    <li>Showering before class is mandatory.</li></ul><h5>5.2 Supervision</h5><ul>    <li>Parents/guardians of babies and young children must remain during the class.</li>    <li>Only one accompanying adult per student is allowed in the pool area.</li></ul><h3>6. Safety and Health</h3><h5>6.1 Health Conditions</h5><ul>    <li>Students with contagious diseases will not be allowed entry.</li>    <li>Any relevant medical condition must be reported.</li>    <li>The school reserves the right to request a medical certificate.</li></ul><h5>6.2 Safety Measures</h5><ul>    <li>Students must follow the instructor's instructions at all times.</li>    <li>The school has certified first aid personnel.</li>    <li>Updated safety and hygiene protocols are maintained.</li></ul><h3>7. Rights and Responsibilities</h3><h5>7.1 Of the School</h5><ul>    <li>Guarantee the quality of teaching.</li>    <li>Maintain equipment in optimal condition.</li>    <li>Provide qualified personnel.</li>    <li>Ensure a safe and appropriate environment.</li></ul><h5>7.2 Of Students/Parents</h5><ul>    <li>Comply with the established rules.</li>    <li>Respect the schedules.</li>    <li>Maintain updated contact information.</li>    <li>Inform about changes in the student's health.</li></ul><h5>7.3 Disclaimer of Liability for Facility Events</h5><ul>    <li>Mini Swimmer operates in leased facilities and has no control over the general management of the premises.</li>    <li>The school is exempt from liability in case of:        <ul>            <li>Sports events or competitions scheduled by the facility</li>            <li>Unexpected closures for facility maintenance</li>            <li>Special lane reservations by the facility</li>            <li>Any other circumstance beyond the direct control of Mini Swimmer</li>        </ul>    </li>    <li>In these cases, affected classes will be rescheduled within the validity period of the package.</li>    <li>If rescheduling is not possible within the validity period, the deadline to take the affected classes will be exceptionally extended.</li>    <li>Mini Swimmer commits to notify as far in advance as possible any changes in the schedule due to these events.</li>    <li>These situations will not entitle to a refund.</li>    </ul><h3>8. Modifications and Termination of Service</h3><ul>    <li>The school reserves the right to modify these terms and conditions.</li>    <li>Changes will be notified in advance.</li>    <li>The school may terminate the service in case of serious breach of contract.</li>  </ul><h3>9. Contact</h3><p>For inquiries about these terms and conditions:</p><ul>    <li>Email: hola@miniswimmer.cl</li>    <li>Phone (WhatsApp only): +1 (305) 336 1196</li>  </ul><p>Last updated: August 1, 2024</p>"
+    }
+  },
+
   
   
   
