@@ -1,30 +1,79 @@
 import { Metadata } from "next";
-
-export const metadata: Metadata = {
-	title: "Learn about the Miniswimmer method",
-	description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
-	openGraph: {
-		type: "website",
-		title: `Learn about the Miniswimmer method`,
-		description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
-		images:
-			"https://images.prismic.io/minifit/f8907eeb-0b15-40b4-b02a-81d122754a11_SOCIAL-MEDIA.png",
-	},
-	twitter: {
-		card: "summary_large_image",
-		title: `Learn about the Miniswimmer method`,
-		description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
-		images:
-			"https://images.prismic.io/minifit/f8907eeb-0b15-40b4-b02a-81d122754a11_SOCIAL-MEDIA.png",
-	},
-};
+import SchemaMarkup from "@/components/Common/SchemaMarkup";
 
 import PrivacyPolicy from "@/components/PrivacyPolicy";
 
+export const metadata: Metadata = {
+	title: "Learn about our Privacy Policy",
+	description: `Mini Swimmer details its privacy practices regarding the collection, use, and protection of personal data from both children (with parental consent) and their guardians for managing swimming services. Users have rights to access, modify, or delete their data, and the policy outlines security measures and contact information for inquiries.`,
+	alternates: {
+		canonical: 'https://miniswimmer.us/privacy-policy',
+		languages: {
+			'en-US': 'https://miniswimmer.us/privacy-policy',
+			'es': 'https://miniswimmer.us/privacy-policy',
+		},
+	},
+	robots: {
+		index: true,
+		follow: true,
+		googleBot: {
+			index: true,
+			follow: true,
+		},
+	},
+	openGraph: {
+		type: "website",
+		url: 'https://miniswimmer.us/privacy-policy',
+		title: `Learn about our Privacy Policy`,
+		description: `Mini Swimmer details its privacy practices regarding the collection, use, and protection of personal data from both children (with parental consent) and their guardians for managing swimming services. Users have rights to access, modify, or delete their data, and the policy outlines security measures and contact information for inquiries.`,
+		images: [
+			{
+				url: "https://images.prismic.io/miniswimmerchile/aBuatCdWJ-7kRuIZ_SOCIAL-MEDIAv2.png?auto=format,compress",
+				width: 1200,
+				height: 630,
+				alt: "Miniswimmer Method"
+			}
+		],
+	},
+	twitter: {
+		card: "summary_large_image",
+		site: "@miniswimmer_edu",
+		creator: "@miniswimmer_edu",
+		title: `Learn about our Privacy Policy`,
+		description: `Mini Swimmer details its privacy practices regarding the collection, use, and protection of personal data from both children (with parental consent) and their guardians for managing swimming services. Users have rights to access, modify, or delete their data, and the policy outlines security measures and contact information for inquiries.`,
+		images: [
+			{
+				url: "https://images.prismic.io/miniswimmerchile/aBuatCdWJ-7kRuIZ_SOCIAL-MEDIAv2.png?auto=format,compress",
+				width: 1200,
+				height: 630,
+				alt: "Miniswimmer Method"
+			}
+		],
+	},
+};
+
+
+const organizationSchema = {
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"name": "Miniswimmer",
+	"url": "https://miniswimmer.us/privacy-policy",
+	"logo": "https://images.prismic.io/miniswimmerchile/aBuatCdWJ-7kRuIZ_SOCIAL-MEDIAv2.png?auto=format,compress",
+	"description": "Mini Swimmer details its privacy practices regarding the collection, use, and protection of personal data from both children (with parental consent) and their guardians for managing swimming services. Users have rights to access, modify, or delete their data, and the policy outlines security measures and contact information for inquiries.",
+	"sameAs": [
+		"https://www.facebook.com/miniswimmer.academy",
+		"https://www.instagram.com/miniswimmer.chile", 
+		"https://www.instagram.com/miniswimmer.us/",
+		"https://www.linkedin.com/company/105056316"
+	]
+};
 export default function PrivacyPolicyPage() {
 	return (
-		<main>
-			<PrivacyPolicy />
-		</main>
+		<>
+			<SchemaMarkup type="Organization" data={organizationSchema} />
+			<main>
+				<PrivacyPolicy />
+			</main>
+		</>
 	);
 }

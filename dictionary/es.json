@@ -663,7 +663,7 @@
       "title": "Valores de nuestros <marker>pack de clases</marker>",
       "subtitle": "Descubre nuestras tarifas de natación para sedes regulares, premium y a domicilio. Clases para bebés, niños, adultos y embarazadas con instructores certificados, desde los 2 meses hasta nivel avanzado.",
       "cta": "",
-      "image": "/images/hero/header-pricing.png",
+      "image": "/images/hero/header-pricing3.png",
       "url": "https://wa.me/13053361196?text=Me%20gustaria%20agendar%20una%20clase%20de%20natacion"
       
     },
@@ -766,9 +766,8 @@
     "hero_section": {
       "title": "Conoce nuestra <marker>Política de Privacidad</marker>",
       "subtitle": "Mini Swimmer detalla sus prácticas de privacidad respecto a la recopilación, uso y protección de datos personales de niños (con consentimiento parental) y sus tutores para la gestión de los servicios de natación. Los usuarios tienen derecho a acceder, modificar o eliminar sus datos, y la política describe las medidas de seguridad y la información de contacto para consultas.",
-      "cta": "",
-      
-      "image": "/images/hero/header-about.png",
+      "cta": "",      
+      "image": "/images/hero/header-pricing3.png",
       "url": ""
     },
     "htmlContent": {
@@ -779,8 +778,8 @@
     "hero_section": {
       "title": "Conoce nuestros <marker>Términos y Condiciones del Servicio</marker>",
       "subtitle": "Los servicios de Mini Swimmer requieren registro con información del estudiante y del apoderado, contamos con una política de cancelación/reprogramación con aviso previo y se debe cumplir con las reglas de la clase, como la llegada puntual y la vestimenta adecuada tanto para los niños como para los apoderados.",
-      "cta": "",      
-      "image": "/images/hero/header-about.png",
+      "cta": "",
+      "image": "/images/hero/header-2.png",
       "url": ""
     },
     "htmlContent": {

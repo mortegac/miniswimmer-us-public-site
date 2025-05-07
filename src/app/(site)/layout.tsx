@@ -20,7 +20,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <NextTopLoader color='#635BFF' crawlSpeed={300} showSpinner={false} shadow='none' />
           <HeaderWrapper />
           <div className='isolate'>{children}</div>
-
           <FooterWrapper />
         </Providers>
       </div>

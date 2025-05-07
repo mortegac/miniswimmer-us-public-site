@@ -43,7 +43,7 @@ const Footer = () => {
                   <a
                     href='https://www.manuelo.dev/'
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow"
                     aria-label='manuelo.dev'
                     className='text-slate-700 duration-200 ease-out hover:text-white'
                   >
@@ -58,6 +58,7 @@ const Footer = () => {
                   href='https://www.instagram.com/miniswimmer.chile'
                   aria-label='Instagram Chile'
                    target="_blank"
+                   rel="nofollow"
                   className='flex duration-200 ease-out hover:text-white'
                 >
                   <svg className='fill-current' 
@@ -79,6 +80,7 @@ const Footer = () => {
                   href='https://www.instagram.com/miniswimmer.us'
                   aria-label='Instagram Estados Unidos'
                    target="_blank"
+                   rel="nofollow"
                   className='flex duration-200 ease-out hover:text-white'
                 >
                   <svg className='fill-current' 
@@ -96,9 +98,10 @@ const Footer = () => {
               </li>
               <li>
               <a
-                  href='https://www.linkedin.com/company/miniswimmer/'
+                  href='https://www.linkedin.com/company/105056316/'
                   aria-label='Linkedin Miniswimmer'
                    target="_blank"
+                   rel="nofollow"
                   className='flex duration-200 ease-out hover:text-white'
                 >
                    <svg className='fill-current' 
@@ -113,9 +116,10 @@ const Footer = () => {
               </li>
               <li>
               <a
-                  href='https://www.facebook.com/miniswimmer.academy'
+                  href='https://www.facebook.com/miniswimmer.academy.academy'
                   aria-label='Facebook Miniswimmer'
                    target="_blank"
+                   rel="nofollow"
                   className='flex duration-200 ease-out hover:text-white'
                 >
                     <svg className='fill-current' 
@@ -158,7 +162,7 @@ const Footer = () => {
                             : ''
                         }
                          target="_blank"
-                        rel={item?.newTab ? 'noopener noreferrer' : ''}
+                        rel={item?.newTab ? 'noopener noreferrer ' : ''}
                         className={`flex duration-200 ease-out hover:text-white ${item?.path?.startsWith('#') ? 'menu-scroll' : ''}`}
                       >
                         {h(item.titleKey)}

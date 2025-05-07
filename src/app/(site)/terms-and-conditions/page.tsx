@@ -1,30 +1,79 @@
 import { Metadata } from "next";
+import SchemaMarkup from "@/components/Common/SchemaMarkup";
+import TermsAndConditions from "@/components/TermsAndConditions";
+
+
 
 export const metadata: Metadata = {
-	title: "Learn about the Miniswimmer method",
-	description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
+	title: "Terms and Conditions of Service",
+	description: `Mini Swimmer's services require registration with medical details and age proof, have a cancellation/rescheduling policy with advance notice, and enforce class rules like timely arrival and proper attire for both children and guardians.`,
+	alternates: {
+		canonical: 'https://miniswimmer.us/terms-and-conditions',
+		languages: {
+			'en-US': 'https://miniswimmer.us/terms-and-conditions',
+			'es': 'https://miniswimmer.us/terms-and-conditions',
+		},
+	},
+	robots: {
+		index: true,
+		follow: true,
+		googleBot: {
+			index: true,
+			follow: true,
+		},
+	},
 	openGraph: {
 		type: "website",
-		title: `Learn about the Miniswimmer method`,
-		description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
-		images:
-			"https://images.prismic.io/minifit/f8907eeb-0b15-40b4-b02a-81d122754a11_SOCIAL-MEDIA.png",
+		url: 'https://miniswimmer.us/terms-and-conditions',
+		title: `Terms and Conditions of Service`,
+		description: `Mini Swimmer's services require registration with medical details and age proof, have a cancellation/rescheduling policy with advance notice, and enforce class rules like timely arrival and proper attire for both children and guardians.`,
+		images: [
+			{
+				url: "https://images.prismic.io/miniswimmerchile/aBuatCdWJ-7kRuIZ_SOCIAL-MEDIAv2.png?auto=format,compress",
+				width: 1200,
+				height: 630,
+				alt: "Miniswimmer Method"
+			}
+		],
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: `Learn about the Miniswimmer method`,
-		description: `Our method uses neurolinguistic programming and coaching to ensure children experience real and meaningful learning throughout their lives.`,
-		images:
-			"https://images.prismic.io/minifit/f8907eeb-0b15-40b4-b02a-81d122754a11_SOCIAL-MEDIA.png",
+		site: "@miniswimmer_edu",
+		creator: "@miniswimmer_edu",
+		title: `Terms and Conditions of Service`,
+		description: `Mini Swimmer's services require registration with medical details and age proof, have a cancellation/rescheduling policy with advance notice, and enforce class rules like timely arrival and proper attire for both children and guardians.`,
+		images: [
+			{
+				url: "https://images.prismic.io/miniswimmerchile/aBuatCdWJ-7kRuIZ_SOCIAL-MEDIAv2.png?auto=format,compress",
+				width: 1200,
+				height: 630,
+				alt: "Miniswimmer Method"
+			}
+		],
 	},
 };
+const organizationSchema = {
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"name": "Miniswimmer",
+	"url": "https://miniswimmer.us/terms-and-conditions",
+	"logo": "https://images.prismic.io/miniswimmerchile/aBuatCdWJ-7kRuIZ_SOCIAL-MEDIAv2.png?auto=format,compress",
+	"description": "Mini Swimmer's services require registration with medical details and age proof, have a cancellation/rescheduling policy with advance notice, and enforce class rules like timely arrival and proper attire for both children and guardians.",
+	"sameAs": [
+		"https://www.facebook.com/miniswimmer.academy",
+		"https://www.instagram.com/miniswimmer.chile", 
+		"https://www.instagram.com/miniswimmer.us/",
+		"https://www.linkedin.com/company/105056316"
+	]
+};
 
-import TermsAndConditions from "@/components/TermsAndConditions";
-
-export default function PrivacyPolicyPage() {
+export default function TermsAndConditionsPage() {
 	return (
-		<main>
-			<TermsAndConditions />
-		</main>
+		<>
+			<SchemaMarkup type="Organization" data={organizationSchema} />
+			<main>
+				<TermsAndConditions />
+			</main>
+		</>
 	);
 }

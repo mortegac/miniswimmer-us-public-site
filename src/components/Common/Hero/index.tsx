@@ -41,7 +41,7 @@ const Hero = (props:any) => {
               <Link 
                 href={t('url')}
                 target="_blank" 
-                rel="noopener noreferrer" 
+                rel="noopener noreferrer nofollow" 
                 className='inline-flex items-center gap-4 rounded-full bg-black py-2 pl-7.5 pr-2 font-satoshi font-medium text-white hover:bg-opacity-90 dark:bg-primary'
           
               >
