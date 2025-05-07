@@ -29,7 +29,6 @@ import Counter from "../Common/Counter";
 import Blog from "../Common/Blog";
 
 
-
 const Home = () => {
 	return (
 		<>
