@@ -44,7 +44,8 @@ const Features = (props:any) => {
               key={"IMG01"}
               className='rounded-[15px] bg-white p-[35px] shadow-1 hover:shadow-features dark:bg-gray-dark bg-cover bg-center bg-no-repeat min-h-[300px] w-full'
               style={{
-                backgroundImage: 'url("https://images.prismic.io/miniswimmerchile/aBkFm_IqRLdaB4XP_uno-about.png?auto=format,compress")',
+                backgroundImage: `url(${t('imagen01')})`,
+                // backgroundImage: 'url("https://images.prismic.io/miniswimmerchile/aBkFm_IqRLdaB4XP_uno-about.png?auto=format,compress")',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
                 backgroundRepeat: 'no-repeat'
@@ -54,7 +55,8 @@ const Features = (props:any) => {
               key={"IMG02"}
               className='rounded-[15px] bg-white p-[35px] shadow-1 hover:shadow-features dark:bg-gray-dark bg-cover bg-center bg-no-repeat min-h-[300px] w-full'
               style={{
-                backgroundImage: 'url("https://images.prismic.io/miniswimmerchile/aBkEwvIqRLdaB4W6_dos-about.png?auto=format,compress")',
+                // backgroundImage: 'url("https://images.prismic.io/miniswimmerchile/aBkEwvIqRLdaB4W6_dos-about.png?auto=format,compress")',
+                backgroundImage: `url(${t('imagen02')})`,
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
                 backgroundRepeat: 'no-repeat'
@@ -64,7 +66,8 @@ const Features = (props:any) => {
               key={"IMG03"}
               className='rounded-[15px] bg-white p-[35px] shadow-1 hover:shadow-features dark:bg-gray-dark bg-cover bg-center bg-no-repeat min-h-[300px] w-full'
               style={{
-                backgroundImage: 'url("https://images.prismic.io/miniswimmerchile/aBkFl_IqRLdaB4XN_tres-about.png?auto=format,compress")',
+                // backgroundImage: 'url("https://images.prismic.io/miniswimmerchile/aBkFl_IqRLdaB4XN_tres-about.png?auto=format,compress")',
+                backgroundImage: `url(${t('imagen03')})`,
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
                 backgroundRepeat: 'no-repeat'

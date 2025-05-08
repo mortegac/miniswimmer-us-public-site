@@ -23,7 +23,7 @@
 3. `$ yarn build`
 4. `$ yarn start`
 
-5. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+5. Open [https://www.miniswimmer.us](https://www.miniswimmer.us) to view it in your browser.
 
 ## Other functions
 
