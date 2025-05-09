@@ -512,7 +512,250 @@
     }
 
   },
-  
+  "lessonBrowardpage": {
+    "hero_section": {
+      "title": "Clases de Natación a domicilio en <marker>Broward</marker>",
+      "subtitle": "Encuentra nuestras convenientes ubicaciones para clases de natación personalizadas a domicilio. Ayudamos a bebés y niños de todos los niveles a mejorar su técnica, resistencia y confianza en el agua.",
+      "cta": "AGENDA TU CLASE PARA BROWARD",
+      
+      "image": "/images/hero/header-childs.png",
+      "url": "https://wa.me/13053361196?text=Me%20gustaria%20agendar%20una%20clase%20de%20natacion%20para%20Broward"
+      
+    },
+    "features_section": {
+			"title": "¡Inscribe a tu Hijo a Natación en Broward!",
+			"imagen01": "https://images.prismic.io/miniswimmerchile/aB1ZOSdWJ-7kRyux_broward-florida-01.png?auto=format,compress",
+			"imagen02": "https://images.prismic.io/miniswimmerchile/aB1ZOidWJ-7kRyuy_broward-florida-02.png?auto=format,compress",
+			"imagen03": "https://images.prismic.io/miniswimmerchile/aB1ZPCdWJ-7kRyuz_broward-florida-03.png?auto=format,compress",
+			"subtitle": "Apoderados de Broward: Inscriban a sus hijos en nuestras clases de natación con nuestros expertos en toda las ciudades de Broward. Desarrollamos confianza y habilidades acuáticas esenciales en un ambiente seguro y divertido. ¡Encuentra tu ubicación más cercana y comienza hoy!",
+			"featuresTop": [
+				{
+					"title": "Coconut Creek",
+					"description": "¡Coconut Creek es pura agua y diversión! Dale a tus pequeños la alegría y seguridad de nadar con Miniswimmer. Nuestras clases personalizadas les enseñarán habilidades vitales mientras disfrutan cada chapuzón. ¡Inscríbelos hoy y que comience la aventura acuática! Clases de natación en Coconut Creek"
+				},
+				{
+					"title": "Cooper City",
+					"description": "¡Descubre la magia acuática en Cooper City con Miniswimmer! Dale a tus hijos la confianza y las habilidades para disfrutar del agua de forma segura y divertida. ¡Inscríbelos hoy y que comience su aventura con Clases de natación en Cooper City"
+				},
+				{
+					"title": "Coral Springs",
+					"description": "¡En Coral Springs, el agua es parte de nuestra vida! Impulsa el desarrollo y la seguridad de tus pequeños con las clases personalizadas de Miniswimmer. ¡Únete a nuestra familia acuática y reserva su lugar hoy! En las Clases de natación en Coral Springs"
+				},
+				{
+					"title": "Dania Beach",
+					"description": "¡El sol y el agua esperan en Dania Beach! En Miniswimmer, hacemos que aprender a nadar sea una experiencia emocionante y segura para niños de todas las edades. ¡Inscríbelos ahora y vamos a nadar! Clases de natación en Dania Beach"
+				},
+				{
+					"title": "Davie",
+					"description": "¡Davie es sinónimo de playa y diversión! Dale a tus hijos la habilidad esencial de nadar con las clases amigables y efectivas de Miniswimmer. ¡Comienza su viaje acuático hoy mismo! Clases de natación en Davie"
+				},
+        {
+					"title": "Fort Lauderdale",
+					"description": "¡La hermosa Fort Lauderdale llama a la aventura acuática! Inscribe a tus hijos en Miniswimmer y mira cómo desarrollan habilidades de natación esenciales y una gran confianza en el agua. ¡Empieza su aprendizaje hoy! Clases de natación en Fort Lauderdale"
+				}
+				
+			],
+			"features": [
+				{
+					"title": "Hallandale Beach",
+					"description": "¡Fomenta la confianza y el bienestar de tus hijos en Hallandale Beach con Miniswimmer! Nuestras clases de natación personalizadas les brindarán habilidades para toda la vida en un ambiente seguro y estimulante. ¡Contáctanos para inscribirlos!  Clases de natación en Hallandale Beach"
+				},
+				{
+					"title": "Hillsboro Beach",
+					"description": "¡Hillsboro Beach es un lugar ideal para amar el agua! Con Miniswimmer, tus hijos aprenderán a nadar con instructores expertos y en un entorno divertido. ¡Asegura su futuro acuático hoy mismo!  Clases de natación en Hillsboro Beach"
+				},
+				{
+					"title": "Hollywood",
+					"description": "¡En Hollywood, la diversión y el aprendizaje se unen en Miniswimmer! Nuestras clases de natación están diseñadas para que los niños de todos los niveles se sientan seguros y disfruten del agua. ¡Inscríbelos y que comience la diversión!  Clases de natación en Hollywood"
+				},
+				{
+					"title": "Lauderdale Lakes",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Lauderdale Lakes con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Lauderdale Lakes"
+				},
+				{
+					"title": "Lauderhill",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Lauderhill con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Lauderhill"
+				},
+				{
+					"title": "Lighthouse Point",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Lighthouse Point con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Lighthouse Point"
+				},
+				{
+					"title": "Margate",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Margate con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Margate"
+				},
+				{
+					"title": "Miramar",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Miramar con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Miramar"
+				},
+				{
+					"title": "North Lauderdale",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en North Lauderdale con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en North Lauderdale"
+				},
+				{
+					"title": "Oakland Park",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Oakland Park con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Oakland Park"
+				},
+				{
+					"title": "Parkland",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Parkland con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Parkland"
+				},
+				{
+					"title": "Pembroke Park",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Pembroke Park con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Pembroke Park"
+				},
+				{
+					"title": "Pembroke Pines",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Pembroke Pines con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Pembroke Pines"
+				},
+				{
+					"title": "Plantation",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Plantation con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Plantation"
+				},
+				{
+					"title": "Pompano Beach",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Pompano Beach con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Pompano Beach"
+				},
+				{
+					"title": "Sea Ranch Lakes",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Sea Ranch Lakes con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Sea Ranch Lakes"
+				},
+				{
+					"title": "Southwest Ranches",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Southwest Ranches con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Southwest Ranches"
+				},
+				{
+					"title": "Sunrise",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Sunrise con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Sunrise"
+				},
+				{
+					"title": "Tamarac",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Tamarac con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Tamarac"
+				},
+				{
+					"title": "Lazy Lake",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Lazy Lake con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Lazy Lake"
+				},
+				{
+					"title": "West Park",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en West Park con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en West Park"
+				},
+				{
+					"title": "Weston",
+					"description": "¡Dale a tus hijos la valiosa habilidad de nadar en Weston con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Weston"
+				},
+				{
+					"title": "Wilton Manors",
+					"description": "¡Dale  tus hijos la valiosa habilidad de nadar en Wilton Manors con Miniswimmer! Nuestras clases personalizadas fomentan la confianza y la técnica en un ambiente amigable. ¡Contáctanos hoy para más información e inscripciones!  Clases de natación en Wilton Manors"
+				}
+			]
+		},
+    
+    "counter_section": {
+      "title": "Familias que confian en nuestro método",
+      "type_one": "Familias",
+      "type_two": "Niños/as y bebes felices",
+      "type_three": "Embarazadas y Adultos"
+    },
+    "testimonials_section": {
+      "title": "Lo Que Nuestras Familias Dicen: Historias de Éxito en el Agua",
+      "subtitle": "Descubre por qué tantas familias confían en nosotros para introducir a sus pequeños al maravilloso mundo acuático. Estos testimonios reflejan nuestro compromiso con la seguridad, el aprendizaje y la diversión de cada uno de nuestros nadadores.",
+      "items": [
+        {
+          "name": "Javier Arancibia",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLyjFwriZEGfjKtDx1G1D-39nocPGVyCEaG-8w2KHjhVOH2VQ=s100-c-rp-mo-br100",
+          "designation": "Madre de 2 años",
+          "comment": "Muy buenas clases, y muy didácticas para los niños"
+        },
+        {
+          "name": "Avo Queen",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLTTKMIMdS1E31rJKVnckOcwFO4B9qHwyAk9Vn5uJ8uO7S-yA=s100-c-rp-mo-br100",
+          "designation": "Madre de 2 años",
+          "comment": "Nos costo mucho encontrar clases para mi hija de 2 años, ya que todas eran muy monotonas y ella se aburria. Hasta que encontre por redes sociales esta escuela y fui a una clase a probar. Quede fascinada con los millones de materiales y juegos que realizan. Nunca había visto algo así. Mi hija es la más feliz ahora. La inscribimos y ella lleva 2 meses y ya comenzó a nadar por si misma y ahora no logro sacarla del agua. Estamos muy felices como familia."
+        },
+        {
+          "name": "Paloma Ferrero",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjU3mM6jVh4fYctriC5VGCwjloBAzgNOlhN3hFN8d85T210x6saX=s100-c-rp-mo-br100",
+          "designation": "Madre de 3 años",
+          "comment": "Excelentes clases! La piscina súper ambientada para el disfrute de los niños/as, materiales novedosos y coloridos y las coaches las mejores por lejos!  Todas con mucha experiencia en bebés y niños, mi hija lo pasa excelente cada vez que va y ha aprendido mucho :)"
+        },
+        {
+          "name": "Andrea Zalavari",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjUvwOvv9w25RU3V_fuo0Ky7Fd9pwPZ5NjYVNM5GUAaxnn6pHUEP=s100-c-rp-mo-br100",
+          "designation": "Madre de 1 año",
+          "comment": "Maravillosa experiencia y método! Cada clase hay avances en mi pequeña y además lo pasa muy bien! Gracias Miniswimmer ❤️"
+        },
+        {
+          "name": "Sebastián Rubio",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjWzi7DtVEOY-YImKmNLE9SaDtKNH-l4-DMGIr9xCXTDFvswaM9i=s150-c-rp-mo-br100",
+          "designation": "Padre de 3 años y 4 meses",
+          "comment": "Recomiendo ampliamente las clases de natación de Mini Swimmer para niños pequeños. Mi hija de 1 año y 3 meses asistió recientemente al programa con Nicole. Ella fue paciente, amable y brindó atención individualizada en clases con grupos pequeños. La confianza y la habilidad de mi hija en el agua mejoraron significativamente con cada lección. También proporcionó equipo apropiado para su edad y el enfoque en la seguridad acuática fue evidente, lo cual es crucial para los niños pequeños. En general, las clases de natación de Mini Swimmer son divertidas, efectivas y están diseñadas para hacer del aprendizaje de la natación una experiencia positiva. Recomiendo encarecidamente este programa a cualquier padre que busque introducir a su hijo en la natación. ¡Cinco estrellas en todo!"
+       },
+        {
+          "name": "Chay",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLTTKMIMdS1E31rJKVnckOcwFO4B9qHwyAk9Vn5uJ8uO7S-yA=s100-c-rp-mo-br100",
+          "designation": "Madre de 5 años",
+          "comment": "Descubrí está academia de natación en redes sociales, mi hijo tiene 8 años. La ubicación en la Reina es conveniente, con estacionamiento privado y seguro. Lo que realmente destaca es su metodología de enseñanza. Los profesores son dedicados y hacen que cada clase sea una experiencia divertida y educativa. Mi hijo ha progresado notablemente desde que comenzó. Al principio tenía miedo al agua, pero ahora nada con confianza. Los instructores tienen una paciencia increíble y explican las técnicas de manera que los niños las entienden fácilmente..."
+        },
+        {
+          "name": "Luisa Maldonado",
+          "image": "https://user-images.trustpilot.com/643ecc5a612df50012c3d633/73x73.png",
+          "designation": "Tia de 5,7 años",
+          "comment": "No tengo suficientes palabras para expresar lo felices que estuvieron mis sobrinos de recibir la ayuda de miniswimmer. Llegaron con mucho miedo al agua y los profesores les dieron las herramientas para estar más seguros cuando entraran en ella. Muy agradecida por el conocimiento que les brindaron. Excelente servicio."
+        }
+      ]
+    },   
+    "newsletter_section": {
+      "title":"¡Suscríbete a <marker>Nuestro Newsletter!</marker>",
+      "description": "No te pierdas nuestras clases especiales de natación para bebés, niños, embarazadas y adultos. Entérate de eventos, descuentos y aprende sobre la prevención, seguridad y el método Miniswimmer para desarrollar nadadores confiados e independientes.",
+      "nameForm": "Ingrese su nombre",
+      "emailForm": "Ingrese su email",
+      "buttonText": "Subscribirse"
+    },
+    "whatsapp_contact": {
+      "title":"Hablemos por WhatsApp!",
+      "phone": "+1 (305) 336 1196",
+      "url": "https://wa.me/13053361196?text=Necesito%20información%20para%20clases%20de%20natacion"
+    },
+    "latest_blog_section": {
+      "title": "Blog: Más Allá del Agua:",
+      "subtitle": "Estimulación Temprana y Desarrollo Infantil. La natación como herramienta transformadora para el crecimiento de tu hijo",
+      "posts": [
+        {
+          "title": "Que es la matronatación y que beneficios tiene",
+          "metadata": "Imagina a tu bebé disfrutando del agua, riendo y fortaleciendo sus músculos, todo mientras crea recuerdos inolvidables contigo. La matronatación no es solo un pasatiempo, es una experiencia transformadora que puede beneficiar enormemente a los bebés desde los 2 meses de edad. Pero, ¿qué es exactamente y cómo puede ayudar a tu pequeño?",
+          "body": ["Imagina a tu bebé disfrutando del agua, riendo y fortaleciendo sus músculos, todo mientras crea recuerdos inolvidables contigo. La matronatación no es solo un pasatiempo, es una experiencia transformadora que puede beneficiar enormemente a los bebés desde los 2 meses de edad. Pero, ¿qué es exactamente y cómo puede ayudar a tu pequeño?"],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SOPHdAxsiBv82K_Screenshot2025-03-26at8.30.52PM.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/que-es-la-matronatacion-y-que-beneficios-tiene",
+          "tags": ["matronatación", "matronatacion", "bebes", "niños", "Método Miniswimmer"]
+        },
+        {
+          "title": "¿Cómo la Programación Neurolingüística Mejora el Aprendizaje de tu Hijo?",
+          "metadata": "¿Te has preguntado alguna vez por qué algunos niños aprenden más rápido que otros? La programación neurolingüística ofrece respuestas fascinantes sobre cómo cada cerebro procesa la información de manera única.",
+          "body": ["¿Te has preguntado alguna vez por qué algunos niños aprenden más rápido que otros? La programación neurolingüística ofrece respuestas fascinantes sobre cómo cada cerebro procesa la información de manera única."],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-NjGXdAxsiBv6B5_pnl-kids.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/como-la-programacion-neurolinguistica-mejora-el-aprendizaje-de-tu-hijo",
+          "tags": ["matronatación", "PNL", "Programación Neurolingüística" ,"Aprendizaje", "bebes", "niños", "Método Miniswimmer"]
+        },
+        {
+          "title": "Beneficios emocionales y sociales de la Matronatación",
+          "metadata": "La matronatación ofrece numerosos beneficios físicos para los bebés de 2 meses o más. El agua proporciona una resistencia suave que ayuda a fortalecer los músculos del bebé de manera gradual y segura.",
+          "body": ["La matronatación ofrece numerosos beneficios físicos para los bebés de 2 meses o más. El agua proporciona una resistencia suave que ayuda a fortalecer los músculos del bebé de manera gradual y segura."],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SPundAxsiBv82c_Screenshot2025-03-26at8.37.16PM.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/beneficios-emocionales-y-sociales-de-la-matronatacion",
+          "tags": ["matronatación", "matronatacion", "bebes", "niños", "Clase de natación niños","Certificación coach de natación", "Clase de natación bebes", "Método Miniswimmer"]
+        }
+      ]
+    },
+    
+    
+    "cta_section": {
+      "title": "Transforme el futuro de su hijo con Miniswimmer",
+      "subtitle": "Nuestro método único combina programación neurolingüística y coaching para garantizar un aprendizaje significativo y duradero.",
+      "cta": "RESERVE SU CLASE AHORA"
+    }
+
+  },
   "contactpage": {
     "hero_section": {
       "title": "Te queremos <marker>escuchar</marker>",

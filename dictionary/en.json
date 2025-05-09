@@ -33,7 +33,7 @@
     "features": "Features",
     "pricing": "Pricing",
     "contact": "Let’s Talk",
-    "locationsMiamiDade": "Lessons in Miami Dade",
+    "locationsMiamiDade": "Lessons in Broward",
     "locationsBroward": "Lessons in Broward",
     "privacyPolicy": "Privacy Policy",
     "termsAndConditions": "Terms of Service",
@@ -558,7 +558,7 @@
     "hero_section": {
       "title": "In-Home Swimming Lessons in  <marker>Miami Dade</marker>",
       "subtitle": "Find our convenient locations for personalized in-home swimming lessons. We help babies and children of all levels improve their technique, build endurance, and gain confidence in the water.",
-      "cta": "SCHEDULE A CLASS",
+      "cta": "SCHEDULE A CLASS IN MIAMI DADE",
       "image": "/images/hero/header-childs.png",
       "url": "https://wa.me/13053361196?text=would%20like%20to%20schedule%20a%20swimming%20lesson%20for%20Miami%20Dade"
     },
@@ -612,6 +612,324 @@
 					"title": "Miami Gardens",
 					"description": "Give your children the valuable skill of swimming in Miami Gardens with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Miami Gardens"
 				}
+			]
+		},
+    "whatsapp_contact": {
+      "title":"Chat with us on WhatsApp!",
+      "phone": "+1 (305) 336 1196",
+      "url": "https://wa.me/13053361196?text=Can%20I%20get%20some%20information%20about%20your%20swimming%20lessons?"
+    },
+    "counter_section": {
+      "title": "Families who trust our method",
+      "type_one": "Families",
+      "type_two": "Happy Children and Babies",
+      "type_three": "Pregnant People, and Adults"
+    },
+    "testimonials_section": {
+      "title": "What Our Families Say: Success Stories in the Water",
+      "subtitle": "Discover why so many families trust us to introduce their little ones to the wonderful aquatic world. These testimonials reflect our commitment to the safety, learning, and fun of each of our swimmers.",
+      "items": [
+        {
+          "name": "Javier Arancibia",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLyjFwriZEGfjKtDx1G1D-39nocPGVyCEaG-8w2KHjhVOH2VQ=s100-c-rp-mo-br100",
+          "designation": "2-month-old's moms",
+          "comment": "Very good classes, and very educational for the children"
+        },
+        {
+          "name": "Avo Queen",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLTTKMIMdS1E31rJKVnckOcwFO4B9qHwyAk9Vn5uJ8uO7S-yA=s100-c-rp-mo-br100",
+          "designation": "2-month-old's mom",
+          "comment": "It was very difficult to find classes for my 2-year-old daughter, as they were all very monotonous and she would get bored. Until I found this school on social media and went to try a class. I was fascinated by the millions of materials and games they use. I had never seen anything like it. My daughter is the happiest now. We enrolled her and she's been attending for 2 months and has already started swimming by herself, and now I can't get her out of the water. We are very happy as a family."
+        },
+        {
+          "name": "Paloma Ferrero",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjU3mM6jVh4fYctriC5VGCwjloBAzgNOlhN3hFN8d85T210x6saX=s100-c-rp-mo-br100",
+          "designation": "3-month-old's mom",
+          "comment": "Excellent classes! The pool is wonderfully set up for children to enjoy, with innovative and colorful materials, and the coaches are by far the best! They all have extensive experience with babies and children. My daughter has an amazing time every visit and has learned so much :)"
+        },
+        {
+          "name": "Andrea Zalavari",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjUvwOvv9w25RU3V_fuo0Ky7Fd9pwPZ5NjYVNM5GUAaxnn6pHUEP=s100-c-rp-mo-br100",
+          "designation": "1-month-old's mom",
+          "comment": "Wonderful experience and method! My little one makes progress in every class and also has a great time! Thank you Miniswimmer ❤️"
+        },
+        {
+          "name": "Sebastián Rubio",
+          "image": "https://lh3.googleusercontent.com/a-/ALV-UjWzi7DtVEOY-YImKmNLE9SaDtKNH-l4-DMGIr9xCXTDFvswaM9i=s150-c-rp-mo-br100",
+          "designation": "Father of a 3-year-old and a 4-month-old",
+          "comment": "I highly recommend Mini Swimmer's swimming classes for young children. My 1-year and 3-month-old daughter recently attended the program with Nicole. She was patient, gentle, and provided individualized attention in small class sizes. My daughter's confidence and skill in the water improved significantly with each lesson.  She also provided age-appropriate equipment and the focus on water safety was also evident, which is crucial for young children. Overall, Mini Swimmer's swimming classes are fun, effective, and designed to make learning to swim a positive experience. I highly recommend this program to any parent looking to introduce their child to swimming. Five stars all around!"
+        },
+        {
+          "name": "Chay",
+          "image": "https://lh3.googleusercontent.com/a/ACg8ocLCVtUsjykPMn7pUFldjm3_BI9vGeHKmCjGIJpWmqZIYCuaMZPq=s100-c-rp-mo-br100",
+          "designation": "5-month-old's mom",
+          "comment": "I discovered this swim academy on social media; my son is 8 years old. The location in La Reina is convenient, with private and secure parking. What really stands out is their teaching methodology. The teachers are dedicated and make each class a fun and educational experience. My son has progressed remarkably since he started. At first, he was afraid of water, but now he swims with confidence. The instructors have incredible patience and explain techniques in ways that children easily understand..."
+        },
+        {
+          "name": "Luisa Maldonado",
+          "image": "https://user-images.trustpilot.com/643ecc5a612df50012c3d633/73x73.png",
+          "designation": "Aunt of 5 and 7-year-old nephews",
+          "comment": "I can't tell you enough how happy my nephews were to receive the help of miniswimmer. They came with a lot of fear to the water and the teachers gave them the tools to be safer when they went into the water. So grateful for the knowledge they were given. Excellent service"
+        }
+      ]
+    },
+    "newsletter_section": {
+      
+      "title":"Subscribe to <marker>Our Newsletter!</marker>",
+      "description": "Get updates on special swim classes for all ages (babies, kids, pregnant individuals, adults), events, discounts, and learn about water safety, prevention, and the Miniswimmer method for building confident, independent swimmers.",
+      "nameForm": "Enter your name",
+      "emailForm": "Enter your email",
+      "buttonText": "Subscribe"
+    },
+    "latest_blog_section": {
+      "title": "Blog: Going Deeper Than Water:",
+      "subtitle": "Early Stimulation and Child Development. Swimming: A Powerful Tool for Your Child's Development.",
+      "posts": [
+        {
+          "title": "Baby Swimming: What It Is and Why It's Beneficial",
+          "metadata": "Picture your baby delighting in the water, giggling, and building strength, all while you share precious moments together. Baby swimming is more than just an activity; it's a powerful experience that offers incredible benefits for infants starting as young as 2 months. But what exactly is baby swimming, and how can it support your child's development?",
+          "body": ["Picture your baby delighting in the water, giggling, and building strength, all while you share precious moments together. Baby swimming is more than just an activity; it's a powerful experience that offers incredible benefits for infants starting as young as 2 months. But what exactly is baby swimming, and how can it support your child's development?"],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SOPHdAxsiBv82K_Screenshot2025-03-26at8.30.52PM.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/que-es-la-matronatacion-y-que-beneficios-tiene",
+          "tags": ["baby swimming", "infant swim", "babies", "kids","Miniswimmer Method"]
+        },
+        {
+          "title": "Unlock Your Child's Learning Potential with Neuro-Linguistic Programming",
+          "metadata": "Ever wondered what makes some kids learn so quickly? Neuro-Linguistic Programming provides fascinating answers about how individual brains process information in their own way.",
+          "body": ["Ever wondered what makes some kids learn so quickly? Neuro-Linguistic Programming provides fascinating answers about how individual brains process information in their own way."],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-NjGXdAxsiBv6B5_pnl-kids.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/como-la-programacion-neurolinguistica-mejora-el-aprendizaje-de-tu-hijo",
+          "tags": ["parent and baby swim", "NLP", "Neuro-Linguistic Programming", "Learning", "infants", "kids","Miniswimmer Method"]
+        },
+        {
+          "title": "The Emotional and Social Advantages of Parent & Baby Swim",
+          "metadata": "Parent & baby swim offers a wealth of physical benefits for infants 2 months and up. The water's gentle resistance aids in the gradual and safe strengthening of your baby's muscles.",
+          "body": ["Parent & baby swim offers a wealth of physical benefits for infants 2 months and up. The water's gentle resistance aids in the gradual and safe strengthening of your baby's muscles."],
+          "mainImage": "https://images.prismic.io/miniswimmer-academy/Z-SPundAxsiBv82c_Screenshot2025-03-26at8.37.16PM.png?auto=format,compress?imwidth=1920",
+          "url": "https://miniswimmer.academy/blog/beneficios-emocionales-y-sociales-de-la-matronatacion",
+          "tags": ["baby swimming", "infant swim", "babies", "children", "swimming lessons for kids", "swim coach certification", "swimming classes for babies", "Miniswimmer Method"]
+        }
+      ]
+    },
+
+    "pricing_section": {
+      "title": "Simple Affordable Pricing",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent condimentum dictum euismod malesuada lacus, non consequat quam.",
+      "subscription": "monthly",
+      "plans": [
+        {
+          "name": "Basic",
+          "for": "For Individuals",
+          "description": "Lorem ipsum dolor sit amet dolorol met conse ctetur adipiscing elit.",
+          "included": {
+            "title": "What's included",
+            "items": [
+              "All basic features",
+              "Up to 1,000,000 tracked visits",
+              "Premium email support",
+              "Up to 03 team members"
+            ]
+          },
+          "cta": "Get Started"
+        },
+        {
+          "name": "Pro",
+          "for": "For Startups",
+          "description": "Lorem ipsum dolor sit amet dolorol met conse ctetur adipiscing elit.",
+          "included": {
+            "title": "What's included",
+            "items": [
+              "All basic features",
+              "Up to 1,000,000 tracked visits",
+              "Premium email support",
+              "Up to 03 team members"
+            ]
+          },
+          "cta": "Get Started"
+        },
+        {
+          "name": "Enterprise",
+          "for": "For big companies",
+          "description": "Lorem ipsum dolor sit amet dolorol met conse ctetur adipiscing elit.",
+          "included": {
+            "title": "What's included",
+            "items": [
+              "All basic features",
+              "Up to 1,000,000 tracked visits",
+              "Premium email support",
+              "Up to 03 team members"
+            ]
+          },
+          "cta": "Get Started"
+        }
+      ]
+    },
+    "faq_section": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent condimentum dictum euismod malesuada lacus, non consequat quam.",
+      "items": [
+        {
+          "question": "Does this app offer a free trial period?",
+          "answer": "All individual Framer subscriptions have been grandfathered into a Pro plan at your existing rate. If you were on a Small Team plan, then all 5 seats have been converted over to Pro seats at your existing rate."
+        },
+        {
+          "question": "How much does this app cost?",
+          "answer": "All individual Framer subscriptions have been grandfathered into a Pro plan at your existing rate. If you were on a Small Team plan, then all 5 seats have been converted over to Pro seats at your existing rate."
+        },
+        {
+          "question": "What's the refund policy?",
+          "answer": "All individual Framer subscriptions have been grandfathered into a Pro plan at your existing rate. If you were on a Small Team plan, then all 5 seats have been converted over to Pro seats at your existing rate."
+        }
+      ]
+    },
+
+   
+
+    "cta_section": {
+      "title": "Transform your child's future with Miniswimmer",
+      "subtitle": "Our unique method combines neurolinguistic programming and coaching to ensure meaningful and lasting learning.",
+      "cta": "BOOK YOUR CLASS NOW"
+    }
+  },
+  "lessonBrowardpage": {
+    "hero_section": {
+      "title": "In-Home Swimming Lessons in  <marker>Broward</marker>",
+      "subtitle": "Find our convenient locations for personalized in-home swimming lessons. We help babies and children of all levels improve their technique, build endurance, and gain confidence in the water.",
+      "cta": "SCHEDULE A CLASS IN BROWARD",
+      "image": "/images/hero/header-childs.png",
+      "url": "https://wa.me/13053361196?text=would%20like%20to%20schedule%20a%20swimming%20lesson%20for%20Broward"
+    },
+    "features_section": {
+			"title": "Enroll Your Child in Swimming in Broward!",
+			"imagen01": "https://images.prismic.io/miniswimmerchile/aB1ZOSdWJ-7kRyux_broward-florida-01.png?auto=format,compress",
+			"imagen02": "https://images.prismic.io/miniswimmerchile/aB1ZOidWJ-7kRyuy_broward-florida-02.png?auto=format,compress",
+			"imagen03": "https://images.prismic.io/miniswimmerchile/aB1ZPCdWJ-7kRyuz_broward-florida-03.png?auto=format,compress",
+			
+			"subtitle": "Broward Parents: Enroll your children in our expert swimming lessons throughout all the cities of Broward. We develop confidence and essential aquatic skills in a safe and fun environment. Find your nearest location and start today!",
+			"featuresTop": [
+				{
+					"title": "Coconut Creek",
+					"description": "Coconut Creek is pure water and fun! Give your little ones the joy and safety of swimming with Miniswimmer. Our personalized classes will teach them vital skills while they enjoy every splash. Enroll them today and let the aquatic adventure begin! Swimming Lessons in Coconut Creek"
+				},
+				{
+					"title": "Cooper City",
+					"description": "Discover the aquatic magic in Cooper City with Miniswimmer! Give your children the confidence and skills to enjoy the water safely and have fun. Enroll them today and let their adventure begin with Swimming Lessons in Cooper City"
+				},
+				{
+					"title": "Coral Springs",
+					"description": "In Coral Springs, water is part of our life! Boost the development and safety of your little ones with Miniswimmer's personalized classes. Join our aquatic family and reserve their spot today! At Swimming Lessons in Coral Springs"
+				},
+				{
+					"title": "Dania Beach",
+					"description": "The sun and water await in Dania Beach! At Miniswimmer, we make learning to swim an exciting and safe experience for children of all ages. Enroll them now and let's go swimming! Swimming Lessons in Dania Beach"
+				},
+				{
+					"title": "Davie",
+					"description": "Davie is synonymous with beach and fun! Give your children the essential skill of swimming with Miniswimmer's friendly and effective classes. Start their aquatic journey today! Swimming Lessons in Davie"
+				},
+        {
+					"title": "Fort Lauderdale",
+					"description": "Beautiful Fort Lauderdale calls for aquatic adventure! Enroll your children in Miniswimmer and watch them develop essential swimming skills and great confidence in the water. Start their learning today! Swimming Lessons in Fort Lauderdale"
+				}
+				
+			],
+			"features": [
+				{
+					"title": "Hallandale Beach",
+					"description": "Foster your children's confidence and well-being in Hallandale Beach with Miniswimmer! Our personalized swimming lessons will provide them with lifelong skills in a safe and stimulating environment. Contact us to enroll them! Swimming Lessons in Hallandale Beach"
+				},
+				{
+					"title": "Hillsboro Beach",
+					"description": "Hillsboro Beach is an ideal place to love the water! With Miniswimmer, your children will learn to swim with expert instructors in a fun setting. Secure their aquatic future today! Swimming Lessons in Hillsboro Beach"
+				},
+				{
+					"title": "Hollywood",
+					"description": "In Hollywood, fun and learning come together at Miniswimmer! Our swimming lessons are designed to make children of all levels feel safe and enjoy the water. Enroll them and let the fun begin! Swimming Lessons in Hollywood"
+				},
+        {
+          "title": "Lauderdale Lakes",
+          "description": "Give your children the valuable skill of swimming in Lauderdale Lakes with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Lauderdale Lakes"
+        },
+        {
+          "title": "Lauderdale-By-The-Sea",
+          "description": "Give your children the valuable skill of swimming in Lauderdale-By-The-Sea with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Lauderdale-By-The-Sea"
+        },
+        {
+          "title": "Lauderhill",
+          "description": "Give your children the valuable skill of swimming in Lauderhill with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Lauderhill"
+        },
+        {
+          "title": "Lighthouse Point",
+          "description": "Give your children the valuable skill of swimming in Lighthouse Point with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Lighthouse Point"
+        },
+        {
+          "title": "Margate",
+          "description": "Give your children the valuable skill of swimming in Margate with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Margate"
+        },
+        {
+          "title": "Miramar",
+          "description": "Give your children the valuable skill of swimming in Miramar with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Miramar"
+        },
+        {
+          "title": "North Lauderdale",
+          "description": "Give your children the valuable skill of swimming in North Lauderdale with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in North Lauderdale"
+        },
+        {
+          "title": "Oakland Park",
+          "description": "Give your children the valuable skill of swimming in Oakland Park with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Oakland Park"
+        },
+        {
+          "title": "Parkland",
+          "description": "Give your children the valuable skill of swimming in Parkland with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Parkland"
+        },
+        {
+          "title": "Pembroke Park",
+          "description": "Give your children the valuable skill of swimming in Pembroke Park with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Pembroke Park"
+        },
+        {
+          "title": "Pembroke Pines",
+          "description": "Give your children the valuable skill of swimming in Pembroke Pines with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Pembroke Pines"
+        },
+        {
+          "title": "Plantation",
+          "description": "Give your children the valuable skill of swimming in Plantation with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Plantation"
+        },
+        {
+          "title": "Pompano Beach",
+          "description": "Give your children the valuable skill of swimming in Pompano Beach with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Pompano Beach"
+        },
+        {
+          "title": "Sea Ranch Lakes",
+          "description": "Give your children the valuable skill of swimming in Sea Ranch Lakes with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Sea Ranch Lakes"
+        },
+        {
+          "title": "Southwest Ranches",
+          "description": "Give your children the valuable skill of swimming in Southwest Ranches with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Southwest Ranches"
+        },
+        {
+          "title": "Sunrise",
+          "description": "Give your children the valuable skill of swimming in Sunrise with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Sunrise"
+        },
+        {
+          "title": "Tamarac",
+          "description": "Give your children the valuable skill of swimming in Tamarac with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Tamarac"
+        },
+        {
+          "title": "Lazy Lake",
+          "description": "Give your children the valuable skill of swimming in Lazy Lake with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Lazy Lake"
+        },
+        {
+          "title": "West Park",
+          "description": "Give your children the valuable skill of swimming in West Park with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in West Park"
+        },
+        {
+          "title": "Weston",
+          "description": "Give your children the valuable skill of swimming in Weston with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Weston"
+        },
+        {
+          "title": "Wilton Manors",
+          "description": "Give your children the valuable skill of swimming in Wilton Manors with Miniswimmer! Our personalized classes foster confidence and technique in a friendly environment. Contact us today for more information and enrollment! Swimming Lessons in Wilton Manors"
+        }
 			]
 		},
     "whatsapp_contact": {

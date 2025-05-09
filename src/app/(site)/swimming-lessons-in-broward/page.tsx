@@ -1,12 +1,12 @@
 import { Metadata } from "next";
 import SchemaMarkup from "@/components/Common/SchemaMarkup";
-import LessonsInMiamiDade from "@/components/LessonsInMiamiDade";
+import LessonsInBroward from "@/components/LessonsInBroward";
 
 
 
 export const metadata: Metadata = {
 	title: "Enroll Your Child in Swimming in Broward!",
-	description: `Find our convenient locations for personalized in-home swimming lessons. We help babies and children of all levels improve their technique, build endurance, and gain confidence in the water. We serve the cities of cities in Broward County.`,
+	description: `Find our convenient locations for personalized in-home swimming lessons. We help babies and children of all levels improve their technique, build endurance, and gain confidence in the water. We serve the cities of Coconut Creek, Cooper City, Coral Springs, Dania Beach, Davie, Deerfield Beach, Fort Lauderdale, Hallandale Beach, Hillsboro Beach, Hollywood, Lauderdale Lakes, Lauderdale-By-The-Sea, Lauderhill, Lighthouse Point, Margate, Miramar, North Lauderdale, Oakland Park, Parkland, Pembroke Park, Pembroke Pines, Plantation, Pompano Beach, Sea Ranch Lakes, Southwest Ranches, Sunrise, Tamarac, Lazy Lake, West Park, Weston, Wilton Manors in Broward County.`,
 	alternates: {
 		canonical: 'https://www.miniswimmer.us/swimming-lessons-in-broward',
 		languages: {
@@ -67,12 +67,12 @@ const organizationSchema = {
 	]
 };
 
-export default function LessonsInMiamiDadePage() {
+export default function LessonsInBrowardPage() {
 	return (
 		<>
 			<SchemaMarkup type="Organization" data={organizationSchema} />
 			<main>
-				<LessonsInMiamiDade />
+				<LessonsInBroward />
 			</main>
 		</>
 	);
